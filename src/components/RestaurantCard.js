@@ -6,7 +6,15 @@ const RestaurantCard = props => {
     };
     return (
         <div className="uk-card uk-card-default uk-card-body uk-margin-left">
-            <h3 className="uk-card-title">{props.data.name}</h3>
+            <h3 className="uk-card-title">
+                <a
+                    href={props.data.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    {props.data.name}
+                </a>
+            </h3>
             <h4>
                 {props.data.town} {props.data.address}
             </h4>

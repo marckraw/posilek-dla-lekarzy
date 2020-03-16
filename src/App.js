@@ -6,6 +6,7 @@ import RestaurantCard from "./components/RestaurantCard";
 const restaurants_list = [
     {
         name: "Cafe Fukrot",
+        url: "https://facebook.com/CafeFurkotChlodna",
         town: "Warszawa",
         address: "Chłodna 2/18",
         phone: "221213145;733087956",
@@ -13,6 +14,7 @@ const restaurants_list = [
     },
     {
         name: "Kiełba w Gębie",
+        url: "https://facebook.com/kielbawgebie/",
         town: "Warszawa",
         address: "Koszykowa 63",
         phone: "228498597",
@@ -20,6 +22,7 @@ const restaurants_list = [
     },
     {
         name: "Agencja Cateringowa Party",
+        url: "https://facebook.com/AgencjaCateringowaParty",
         town: "Warszawa",
         address: "Rakowiecka 36",
         phone: "515908011",
