@@ -56,7 +56,16 @@ function App() {
                     ) : (
                         filteredRestaurantList &&
                         filteredRestaurantList.map(restaurant => {
-                            return <RestaurantCard data={restaurant} />;
+                            return (
+                                <RestaurantCard
+                                    data={restaurant}
+                                    key={
+                                        restaurant.Name +
+                                        restaurant.Phone +
+                                        restaurant.Town
+                                    }
+                                />
+                            );
                         })
                     )}
                 </div>
