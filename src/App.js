@@ -27,6 +27,30 @@ const restaurants_list = [
         address: "Rakowiecka 36",
         phone: "515908011",
         mealsLeft: "2"
+    },
+    {
+        name: "Agencja Bonifacy",
+        url: "https://facebook.com/AgencjaCateringowaParty",
+        town: "Warszawa",
+        address: "jakaś 36",
+        phone: "781723123123",
+        mealsLeft: "20"
+    },
+    {
+        name: "Bistro Waza Smoków",
+        url: "https://facebook.com/AgencjaCateringowaParty",
+        town: "Katowice",
+        address: "jakaś 23",
+        phone: "090909090",
+        mealsLeft: "20"
+    },
+    {
+        name: "Vendetta",
+        url: "https://pizzadrawsko.pl/",
+        town: "Drawsko Pomorskie",
+        address: "Sikorskiego 111",
+        phone: "943636660",
+        mealsLeft: "1"
     }
 ];
 
@@ -43,7 +67,10 @@ function App() {
             </div>
 
             <div class="uk-container" style={{ marginTop: "100px" }}>
-                <div class="uk-flex">
+                <h1 className="uk-heading-medium">
+                    Restauracje blisko ciebie:{" "}
+                </h1>
+                <div class="uk-flex uk-flex-wrap uk-flex-wrap-around">
                     {restaurants_list.map(restaurant => {
                         return <RestaurantCard data={restaurant} />;
                     })}

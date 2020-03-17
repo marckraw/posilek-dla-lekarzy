@@ -5,7 +5,7 @@ const RestaurantCard = props => {
         console.log("making order....");
     };
     return (
-        <div className="uk-card uk-card-default uk-card-body uk-margin-left">
+        <div className="uk-card uk-card-default uk-card-body uk-margin-left uk-margin-right uk-margin-top uk-margin-bottom">
             <h3 className="uk-card-title">
                 <a
                     href={props.data.url}
