@@ -18,8 +18,11 @@ const RestaurantCard = props => {
             <h4>
                 {props.data.town} {props.data.address}
             </h4>
-            <h5>{props.data.phone}</h5>
-            {props.data.mealsLeft > 0 ? (
+            <h5>
+                {" "}
+                <strong>Telefon:</strong> {props.data.phone}
+            </h5>
+            {/* {props.data.mealsLeft > 0 ? (
                 <button onClick={makeOrder}>
                     Zamów (pozostalo: {props.data.mealsLeft})
                 </button>
@@ -27,7 +30,7 @@ const RestaurantCard = props => {
                 <button disabled>
                     Zamów (pozostalo: {props.data.mealsLeft})
                 </button>
-            )}
+            )} */}
         </div>
     );
 };
