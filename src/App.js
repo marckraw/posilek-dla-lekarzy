@@ -1,20 +1,35 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useCallback } from "react";
 import "./main.scss";
 import RestaurantCard from "./components/RestaurantCard";
 import restaurants_list from "./data/data.json";
+
+const debounce = (fn, delay) => {
+    let timeoutId;
+    return function(...args) {
+        clearInterval(timeoutId);
+        timeoutId = setTimeout(() => fn.apply(this, args), delay);
+    };
+};
 
 function App() {
     const [townValue, setTownValue] = useState("");
     const [restaurantList, setRestaurantList] = useState(restaurants_list);
     const [filteredRestaurantList, setFilteredRestaurantList] = useState(null);
 
+    const debounceCallback = useCallback(
+        debounce(value => {
+            setFilteredRestaurantList(value);
+        }, 500),
+        []
+    );
+
     useEffect(() => {
-        setFilteredRestaurantList(
+        debounceCallback(
             restaurantList.filter(restaurant =>
                 restaurant.Town.toUpperCase().includes(townValue.toUpperCase())
             )
         );
-    }, [townValue, restaurantList]);
+    }, [townValue, restaurantList, debounceCallback]);
 
     const handleChange = event => {
         const value = event.currentTarget.value;
