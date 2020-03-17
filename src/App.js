@@ -6,9 +6,7 @@ import restaurants_list from "./data/data.json";
 function App() {
     const [townValue, setTownValue] = useState("");
     const [restaurantList, setRestaurantList] = useState(restaurants_list);
-    const [filteredRestaurantList, setFilteredRestaurantList] = useState(
-        restaurants_list
-    );
+    const [filteredRestaurantList, setFilteredRestaurantList] = useState(null);
 
     useEffect(() => {
         setFilteredRestaurantList(
@@ -46,9 +44,21 @@ function App() {
                     Restauracje blisko ciebie:{" "}
                 </h1>
                 <div className="uk-flex uk-flex-wrap uk-flex-wrap-around">
-                    {filteredRestaurantList.map(restaurant => {
-                        return <RestaurantCard data={restaurant} />;
-                    })}
+                    {filteredRestaurantList &&
+                        filteredRestaurantList.length === 0 && (
+                            <div>
+                                Nie ma restauracji zapisanej do naszej akcji w
+                                tym mieście
+                            </div>
+                        )}
+                    {townValue === "" ? (
+                        <div>Zacznij wpisywac nazwe miasta</div>
+                    ) : (
+                        filteredRestaurantList &&
+                        filteredRestaurantList.map(restaurant => {
+                            return <RestaurantCard data={restaurant} />;
+                        })
+                    )}
                 </div>
             </div>
         </>
