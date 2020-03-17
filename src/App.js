@@ -2,57 +2,58 @@ import React, { useState, useEffect } from "react";
 import Autocomplete from "./components/Autocomplete";
 import "./main.scss";
 import RestaurantCard from "./components/RestaurantCard";
+import restaurants_list from "./data/data.json";
 
-const restaurants_list = [
-    {
-        name: "Cafe Fukrot",
-        url: "https://facebook.com/CafeFurkotChlodna",
-        town: "Warszawa",
-        address: "Chłodna 2/18",
-        phone: "221213145;733087956",
-        mealsLeft: "26"
-    },
-    {
-        name: "Kiełba w Gębie",
-        url: "https://facebook.com/kielbawgebie/",
-        town: "Warszawa",
-        address: "Koszykowa 63",
-        phone: "228498597",
-        mealsLeft: "0"
-    },
-    {
-        name: "Agencja Cateringowa Party",
-        url: "https://facebook.com/AgencjaCateringowaParty",
-        town: "Warszawa",
-        address: "Rakowiecka 36",
-        phone: "515908011",
-        mealsLeft: "2"
-    },
-    {
-        name: "Agencja Bonifacy",
-        url: "https://facebook.com/AgencjaCateringowaParty",
-        town: "Warszawa",
-        address: "jakaś 36",
-        phone: "781723123123",
-        mealsLeft: "20"
-    },
-    {
-        name: "Bistro Waza Smoków",
-        url: "https://facebook.com/AgencjaCateringowaParty",
-        town: "Katowice",
-        address: "jakaś 23",
-        phone: "090909090",
-        mealsLeft: "20"
-    },
-    {
-        name: "Vendetta",
-        url: "https://pizzadrawsko.pl/",
-        town: "Drawsko Pomorskie",
-        address: "Sikorskiego 111",
-        phone: "943636660",
-        mealsLeft: "1"
-    }
-];
+// const restaurants_list = [
+//     {
+//         name: "Cafe Fukrot",
+//         url: "https://facebook.com/CafeFurkotChlodna",
+//         town: "Warszawa",
+//         address: "Chłodna 2/18",
+//         phone: "221213145;733087956",
+//         mealsLeft: "26"
+//     },
+//     {
+//         name: "Kiełba w Gębie",
+//         url: "https://facebook.com/kielbawgebie/",
+//         town: "Warszawa",
+//         address: "Koszykowa 63",
+//         phone: "228498597",
+//         mealsLeft: "0"
+//     },
+//     {
+//         name: "Agencja Cateringowa Party",
+//         url: "https://facebook.com/AgencjaCateringowaParty",
+//         town: "Warszawa",
+//         address: "Rakowiecka 36",
+//         phone: "515908011",
+//         mealsLeft: "2"
+//     },
+//     {
+//         name: "Agencja Bonifacy",
+//         url: "https://facebook.com/AgencjaCateringowaParty",
+//         town: "Warszawa",
+//         address: "jakaś 36",
+//         phone: "781723123123",
+//         mealsLeft: "20"
+//     },
+//     {
+//         name: "Bistro Waza Smoków",
+//         url: "https://facebook.com/AgencjaCateringowaParty",
+//         town: "Katowice",
+//         address: "jakaś 23",
+//         phone: "090909090",
+//         mealsLeft: "20"
+//     },
+//     {
+//         name: "Vendetta",
+//         url: "https://pizzadrawsko.pl/",
+//         town: "Drawsko Pomorskie",
+//         address: "Sikorskiego 111",
+//         phone: "943636660",
+//         mealsLeft: "1"
+//     }
+// ];
 
 function App() {
     const [townValue, setTownValue] = useState("");
@@ -64,7 +65,7 @@ function App() {
     useEffect(() => {
         setFilteredRestaurantList(
             restaurantList.filter(restaurant =>
-                restaurant.town.toUpperCase().includes(townValue.toUpperCase())
+                restaurant.Town.toUpperCase().includes(townValue.toUpperCase())
             )
         );
     }, [townValue, restaurantList]);

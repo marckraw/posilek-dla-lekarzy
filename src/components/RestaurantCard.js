@@ -8,19 +8,19 @@ const RestaurantCard = props => {
         <div className="uk-card uk-card-default uk-card-body uk-margin-left uk-margin-right uk-margin-top uk-margin-bottom">
             <h3 className="uk-card-title">
                 <a
-                    href={props.data.url}
+                    href={props.data.Url}
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    {props.data.name}
+                    {props.data.Name}
                 </a>
             </h3>
             <h4>
-                {props.data.town} {props.data.address}
+                {props.data.Town} {props.data.Address}
             </h4>
             <h5>
                 {" "}
-                <strong>Telefon:</strong> {props.data.phone}
+                <strong>Telefon:</strong> {props.data.Phone}
             </h5>
             {/* {props.data.mealsLeft > 0 ? (
                 <button onClick={makeOrder}>
