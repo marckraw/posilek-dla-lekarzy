@@ -1,1830 +1,2725 @@
 [
-    {
-        "Url": "https://facebook.com/CafeFurkotChlodna",
-        "Name": "Cafe Fukrot",
-        "Address": "Chłodna 2/18",
-        "Phone": 221213145,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "https://facebook.com/kielbawgebie/",
-        "Name": "Kiełba w Gębie",
-        "Address": "Koszykowa 63",
-        "Phone": 733087956,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "https://facebook.com/AgencjaCateringowaParty",
-        "Name": "Agencja Cateringowa Party",
-        "Address": "Rakowiecka 36",
-        "Phone": 228498597,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "https://facebook.com/Lafinestrapizza",
-        "Name": "Restauracja La Finestra",
-        "Address": "Grójecka 46/50",
-        "Phone": 515908011,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "https://www.facebook.com/wiekszapolowa.eu",
-        "Name": "Większa Połowa",
-        "Address": "Wrocławska 7e",
-        "Phone": 792045552,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "",
-        "Name": "Chupan Kebab",
-        "Address": "Kazimierza Wyki 2D",
-        "Phone": 788566070,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "https://facebook.com/bistrowaza/",
-        "Name": "Bistro Waza Smoków",
-        "Address": "Brata Alberta 19",
-        "Phone": 607080232,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "http://mojopicon.pl",
-        "Name": "Mojo Picón",
-        "Address": "Prosta 53",
-        "Phone": 222414800,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "http://monticello.pl",
-        "Name": "Monticello Ristorante",
-        "Address": "Drawska 22",
-        "Phone": 508029163,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "https://facebook.com/antoniopizzapl/",
-        "Name": "Antonio Pizza&amp;Pasta",
-        "Address": "Majdańska 7",
-        "Phone": 224987007,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "http://nanowolipkach.pl",
-        "Name": "Pizzeria na Nowolipkach",
-        "Address": "Nowolipki 15",
-        "Phone": 224988877,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "http://pizzerianadickensa.pl",
-        "Name": "Pizzeria na Dickensa",
-        "Address": "Dickensa 17a",
-        "Phone": 665556670,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "https://facebook.com/breakartlunch/",
-        "Name": "Break and Lunch",
-        "Address": "Domaniewska 32",
-        "Phone": 511364704,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "https://www.facebook.com/W%C5%82oski-Strajk-490616791741720/",
-        "Name": "Włoski Strajk",
-        "Address": "Złota 8",
-        "Phone": 508333639,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "https://facebook.com/624981664226252",
-        "Name": "MOMMO GOOD FOOD",
-        "Address": "Aleje Jerozolimskie 28",
-        "Phone": 228274010,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "https://facebook.com/burgerynoca",
-        "Name": "Burgery Nocą",
-        "Address": "Nieszawska 4d/5",
-        "Phone": 787412412,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "https://facebook.com/TelAviv.UrbanFood/",
-        "Name": "Tel Aviv Urban Food",
-        "Address": "Poznańska 11",
-        "Phone": 226211128,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "https://pizzerialacasa.pl",
-        "Name": "Pizzeria La Casa",
-        "Address": "1959-01-16T23:00:00.000Z",
-        "Phone": 501225714,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "http://czyliczyli.pl",
-        "Name": "Czyli Czyli",
-        "Address": "Komisji Edukacji Narodowej 19",
-        "Phone": 883415500,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "http://pizzadziada.pl",
-        "Name": "Pizza Nocą u Dziadka",
-        "Address": "Powstańców Śląskich 124",
-        "Phone": 883903706,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "https://facebook.com/cafeagrafka",
-        "Name": "Cafe Agrafka",
-        "Address": "Wrocławska 20a",
-        "Phone": 604635955,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "https://facebook.com/roslinacafe",
-        "Name": "Kawiarnia i bistro Roślina",
-        "Address": "Schroegera 80",
-        "Phone": 608031810,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "https://facebook.com/pho206",
-        "Name": "PHO 206",
-        "Address": "Ogrodowa 37",
-        "Phone": 668843623,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "https://www.facebook.com/restauracjaprzykominku/",
-        "Name": "Restauracja Przy Kominku",
-        "Address": "Patriotów 45",
-        "Phone": 501519592,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "http://www.asado.pl",
-        "Name": "Asado Mezze &amp; Grill",
-        "Address": "Kredytowa 4",
-        "Phone": 500872747,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "http://www.groole.pl",
-        "Name": "Groole",
-        "Address": "Śniadeckich 8",
-        "Phone": 796217489,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "https://www.facebook.com/czasnalunch/",
-        "Name": "Czas Na Lunch",
-        "Address": "Wałbrzyska 11",
-        "Phone": 500016617,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "http://www.tahina.pl",
-        "Name": "Tahina",
-        "Address": "Wilcza 26/U3",
-        "Phone": 500732720,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "http://www.soupculture.pl",
-        "Name": "Soup Culture",
-        "Address": "al. Jana Pawła II 38",
-        "Phone": 500203582,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "http://www.pracowniasushi.pl",
-        "Name": "Pracownia Sushi",
-        "Address": "Kolejowa 45/U10",
-        "Phone": 222209915,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "http://www.agerecontra.pl",
-        "Name": "Agere Contra",
-        "Address": "Chłodna 2/18",
-        "Phone": 502265577,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "http://www.indiaexpress.pl/",
-        "Name": "India Express Sienna",
-        "Address": "Sienna 87",
-        "Phone": 224688979,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "http://www.indiaexpress.pl/",
-        "Name": "India Express Mokotów",
-        "Address": "Etiudy Rewolucyjnej 9",
-        "Phone": 222436633,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "https://www.facebook.com/BobbyBurgerStawki/",
-        "Name": "Bobby Burger Stawki",
-        "Address": "Stawki 8",
-        "Phone": 510227773,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "https://www.facebook.com/BobbyBurgerGrojecka/",
-        "Name": "Bobby Burger Grójecka",
-        "Address": "Grójecka 34",
-        "Phone": 881922174,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "http://www.indiaexpress.pl",
-        "Name": "Mandala Bielany",
-        "Address": "Daniłowskiego 47",
-        "Phone": 224284454,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "https://www.facebook.com/BobbyBurgerSaska/",
-        "Name": "Bobby Burger Saska Kępa",
-        "Address": "Poselska 2/U2",
-        "Phone": 226162711,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "https://www.facebook.com/BobbyBurgerEmiliiPlater/",
-        "Name": "Bobby Burger Emilii Plater",
-        "Address": "Emilii Plater 47",
-        "Phone": 224046623,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "http://www.doux.pl",
-        "Name": "Doux Cukiernia &amp; Kawiarnia",
-        "Address": "Kondratowicza 37",
-        "Phone": 510635444,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "",
-        "Name": "Bobby Burger Rondo Wiatraczna",
-        "Address": "Grochowska 210/212 lok. U 6/7",
-        "Phone": 881922181,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "https://www.facebook.com/UnitedStreetFoodWarszawa/",
-        "Name": "United Street Food",
-        "Address": "Fosa 3",
-        "Phone": 538488884,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "http://www.podpodkowa.pl",
-        "Name": "Restauracja Pod Podkową",
-        "Address": "Pulawska 266",
-        "Phone": 515313428,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "http://www.hotelmistral.pl",
-        "Name": "Restauracja Mistral",
-        "Address": "Słoneczna 1",
-        "Phone": 227812754,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "http://www.bistrolacocotte.com",
-        "Name": "Bistro la Cocotte",
-        "Address": "Mokotowska 12",
-        "Phone": 664906000,
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "http://nova-invest.pl",
-        "Name": "Nocny Marek",
-        "Address": "Piastowska 69",
-        "Phone": "609458339",
-        "Town": "Warszawa"
-    },
-    {
-        "Url": "http://tenshisushi.pl",
-        "Name": "Tenshi Sushi",
-        "Address": "Plac Kościuszki 23",
-        "Phone": 785730770,
-        "Town": "Aleksandrów Łódzki"
-    },
-    {
-        "Url": "",
-        "Name": "Chłopskie Jadło",
-        "Address": "Annopol 2",
-        "Phone": 733462236,
-        "Town": "Annopol"
-    },
-    {
-        "Url": "https://www.facebook.com/215561072197465/",
-        "Name": "Spółdzielnia Socjalna Jaśmin",
-        "Address": "Katowicka 10",
-        "Phone": 721312391,
-        "Town": "Baranów"
-    },
-    {
-        "Url": "https://www.facebook.com/cateringdosyta/",
-        "Name": "Catering Do Syta",
-        "Address": "Jana Pawła II 11",
-        "Phone": 512269114,
-        "Town": "Biała Podlaska:"
-    },
-    {
-        "Url": "https://facebook.com/Mily.burger/",
-        "Name": "Miły Burger",
-        "Address": "Wesoła 16",
-        "Phone": 519695226,
-        "Town": "Białystok:"
-    },
-    {
-        "Url": "http://www.poswieciekuchnik.pl/",
-        "Name": "Po Świecie Kuchni",
-        "Address": "Strażacka 81",
-        "Phone": 509220363,
-        "Town": "Bielsko-Biała:"
-    },
-    {
-        "Url": "https://www.facebook.com/bilgorajchilout/",
-        "Name": "Chillout",
-        "Address": "Sikorskiego 7A",
-        "Phone": 600350600,
-        "Town": "Biłgoraj:"
-    },
-    {
-        "Url": "http://takeafruit.pl",
-        "Name": "Take a Fruit",
-        "Address": "Przemysłowa 1",
-        "Phone": 221105080,
-        "Town": "Blizne Łaszczyńskiego:"
-    },
-    {
-        "Url": "http://zajazdrowerowy.pl/",
-        "Name": "Zajazd Rowerowy Nawsie",
-        "Address": "Zakopiańska 2",
-        "Phone": 576960730,
-        "Town": "Bolęcin:"
-    },
-    {
-        "Url": "https://www.facebook.com/ParkHotelBydgoszcz/",
-        "Name": "Park Hotel",
-        "Address": "Wrocławska 3",
-        "Phone": 513069794,
-        "Town": "Bydgoszcz:"
-    },
-    {
-        "Url": "http://www.pierogarnie.com",
-        "Name": "Pierogarnia Stary Młyn",
-        "Address": "Poznańska 4/2",
-        "Phone": 523471164,
-        "Town": "Bydgoszcz:"
-    },
-    {
-        "Url": "https://www.facebook.com/podrodze.bytom/",
-        "Name": "Po Drodze",
-        "Address": "Żołnierza Polskiego 19",
-        "Phone": 575540903,
-        "Town": "Bytom:"
-    },
-    {
-        "Url": "http://quebabfactory.eu",
-        "Name": "Quebab Factory",
-        "Address": "Podgórna 2",
-        "Phone": 731370330,
-        "Town": "Bytom:"
-    },
-    {
-        "Url": "http://www.zajebistapizza.com/",
-        "Name": "Zajebista Pizza",
-        "Address": "tel. 600794257",
-        "Phone": "",
-        "Town": "Bytom:"
-    },
-    {
-        "Url": "",
-        "Name": "Bistroszyneczka",
-        "Address": "Konstytucji 103",
-        "Phone": 606104315,
-        "Town": "Bytom:"
-    },
-    {
-        "Url": "https://www.facebook.com/Aledobrechorzow/",
-        "Name": "Restauracja A'le Dobre",
-        "Address": "Stefana Batorego 38",
-        "Phone": 514098912,
-        "Town": "Chorzów:"
-    },
-    {
-        "Url": "https://facebook.com/KAIRO-KEBAB-102629328011900",
-        "Name": "Kairo Kebab",
-        "Address": "2003-05-03T22:00:00.000Z",
-        "Phone": 729911007,
-        "Town": "Chorzów:"
-    },
-    {
-        "Url": "http://obiady-chorzow.pl",
-        "Name": "Firma Kateringowa Obiady jak u mamy",
-        "Address": "Wolności 83",
-        "Phone": 507130656,
-        "Town": "Chorzów:"
-    },
-    {
-        "Url": "https://facebook.com/zajebistapizza/",
-        "Name": "Zajebista Pizza",
-        "Address": "Wolności 134",
-        "Phone": 600794257,
-        "Town": "Chorzów:"
-    },
-    {
-        "Url": "http://www.catering-arts.pl/obiady",
-        "Name": "Catering Arts",
-        "Address": "Hajducka 84",
-        "Phone": 536066066,
-        "Town": "Chorzów:"
-    },
-    {
-        "Url": "https://facebook.com/Restauracja.Dejavu/",
-        "Name": "Restauracja Deja Vu",
-        "Address": "Plac Jana Pawła II 15",
-        "Phone": 517907207,
-        "Town": "Ciechanów:"
-    },
-    {
-        "Url": "http://www.daito.pl/",
-        "Name": "Daito Sushi",
-        "Address": "Będzińska 80",
-        "Phone": 506822059,
-        "Town": "Czeladź:"
-    },
-    {
-        "Url": "https://facebook.com/localnycatering",
-        "Name": "Localny Catering",
-        "Address": "Wyszyńskiego 3",
-        "Phone": 798970878,
-        "Town": "Dąbrowa Górnicza:"
-    },
-    {
-        "Url": "http://radelko.pl",
-        "Name": "Pizzeria Radełko",
-        "Address": "Królowej Jadwigi 23",
-        "Phone": 731211198,
-        "Town": "Dąbrowa Górnicza:"
-    },
-    {
-        "Url": "https://facebook.com/cukierniacieplak/",
-        "Name": "Cukiernia Cieplak SC",
-        "Address": "Warszawska 71",
-        "Phone": 608552349,
-        "Town": "Dąbrowa Górnicza:"
-    },
-    {
-        "Url": "http://pizzadrawsko.pl/",
-        "Name": "Vendetta",
-        "Address": "Sikorskiego 111",
-        "Phone": 943636660,
-        "Town": "Drawsko Pomorskie:"
-    },
-    {
-        "Url": "https://facebook.com/pizzanapoligda",
-        "Name": "Pizza Napoli",
-        "Address": "Generała Augusta Emila Fieldorfa 2",
-        "Phone": 513588090,
-        "Town": "Gdańsk:"
-    },
-    {
-        "Url": "http://krolewska.com.pl",
-        "Name": "Pizzeria Królewska",
-        "Address": "Wały Jagiellońskie 8",
-        "Phone": 583015890,
-        "Town": "Gdańsk:"
-    },
-    {
-        "Url": "https://facebook.com/pychamicha3miasto",
-        "Name": "Pycha Micha 3miasto",
-        "Address": "Opacka 33",
-        "Phone": 505749508,
-        "Town": "Gdańsk:"
-    },
-    {
-        "Url": "http://www.cosnaruszt.pl",
-        "Name": "Pizza&amp;Grill coś na ruszt",
-        "Address": "Cieszyńskiego 38/20",
-        "Phone": 669616878,
-        "Town": "Gdańsk:"
-    },
-    {
-        "Url": "http://www.crazburg.eatbu.com",
-        "Name": "Crazburg",
-        "Address": "Traugutta 86",
-        "Phone": 511541052,
-        "Town": "Gdańsk:"
-    },
-    {
-        "Url": "www.laothai.pl",
-        "Name": "Lao Thai",
-        "Address": "Targ Rybny 11",
-        "Phone": 797334000,
-        "Town": "Gdańsk:"
-    },
-    {
-        "Url": "www.domsushi.pl",
-        "Name": "Dom Sushi",
-        "Address": "Targ Rybny 11",
-        "Phone": 513180450,
-        "Town": "Gdańsk:"
-    },
-    {
-        "Url": "",
-        "Name": "Czarna Perła",
-        "Address": "Długie Pobrzeże",
-        "Phone": 519140201,
-        "Town": "Gdańsk:"
-    },
-    {
-        "Url": "http://www.pierogarnie.com",
-        "Name": "Pierogarnia Stary Młyn",
-        "Address": "Św. Ducha 64",
-        "Phone": 587277114,
-        "Town": "Gdańsk:"
-    },
-    {
-        "Url": "https://Facebook.com/vivalapizzagdynia",
-        "Name": "Viva la PIZZA!",
-        "Address": "Świętojańska 49",
-        "Phone": 583526633,
-        "Town": "Gdynia:"
-    },
-    {
-        "Url": "https://facebook.com/ILovePizzaTrojmiasto/",
-        "Name": "I Love Pizza",
-        "Address": "Nauczycielska 2a",
-        "Phone": 737777404,
-        "Town": "Gdynia:"
-    },
-    {
-        "Url": "https://facebook.com/smartbistropl/",
-        "Name": "Smart Bistro",
-        "Address": "Hutnicza 8",
-        "Phone": 504440850,
-        "Town": "Gdynia:"
-    },
-    {
-        "Url": "http://restauracjajedyna.pl",
-        "Name": "Restauracja JEDYNA",
-        "Address": "Narcyzowa 1/8",
-        "Phone": 509851636,
-        "Town": "Gdynia:"
-    },
-    {
-        "Url": "http://bistrokwadrans.pl",
-        "Name": "Bistro Kwadrans",
-        "Address": "Skwer Kościuszki 20",
-        "Phone": 607727307,
-        "Town": "Gdynia:"
-    },
-    {
-        "Url": "http://www.poprostubistro.pl",
-        "Name": "#Poprostu Bistro",
-        "Address": "Żwirki i Wigury 12/U1",
-        "Phone": 788660070,
-        "Town": "Gdynia:"
-    },
-    {
-        "Url": "https://facebook.com/michagliwice",
-        "Name": "Micha Gliwice",
-        "Address": "Barlickiego 15",
-        "Phone": 668004929,
-        "Town": "Gliwice:"
-    },
-    {
-        "Url": "https://larustica.pl",
-        "Name": "Trattoria La Rustica",
-        "Address": "Daszyńskiego 540",
-        "Phone": 660454647,
-        "Town": "Gliwice:"
-    },
-    {
-        "Url": "https://triocatering.pl",
-        "Name": "Trio Catering &amp; Bar",
-        "Address": "Zygmunta Starego 20",
-        "Phone": 323308310,
-        "Town": "Gliwice:"
-    },
-    {
-        "Url": "http://www.korovaburger.pl",
-        "Name": "Korova Burger Bar",
-        "Address": "Kaczyniec 15",
-        "Phone": 739225289,
-        "Town": "Gliwice:"
-    },
-    {
-        "Url": "http://restauracjawanilia.pl",
-        "Name": "Restauracja Wanilia",
-        "Address": "Korfantego 36 (róg Kościuszki)",
-        "Phone": 327330836,
-        "Town": "Gliwice:"
-    },
-    {
-        "Url": "",
-        "Name": "Thai vege gluten free",
-        "Address": "Basztowa 5",
-        "Phone": 661431626,
-        "Town": "Gliwice:"
-    },
-    {
-        "Url": "",
-        "Name": "Bistro Royal",
-        "Address": "Konstytucji 3. Maja 11",
-        "Phone": 536076806,
-        "Town": "Goleniów:"
-    },
-    {
-        "Url": "https://facebook.com/babelek.gorzow/",
-        "Name": "Bąbelek",
-        "Address": "Chrobrego 17",
-        "Phone": 508291768,
-        "Town": "Gorzów Wielkopolski:"
-    },
-    {
-        "Url": "",
-        "Name": "Phu Bartolini",
-        "Address": "Kwiatkowskiego 11",
-        "Phone": "509939608/509939609/609567111",
-        "Town": "Gorzów Wielkopolski:"
-    },
-    {
-        "Url": "https://facebook.com/doncorleonegrudziadz/",
-        "Name": "Don Corleone Grudziądz",
-        "Address": "Rynek 1",
-        "Phone": 726707070,
-        "Town": "Grudziądz:"
-    },
-    {
-        "Url": "",
-        "Name": "Pizzernia DonCorleone",
-        "Address": "Sobieskiego 14",
-        "Phone": 504500239,
-        "Town": "Iława:"
-    },
-    {
-        "Url": "https://facebook.com/KawiarniaFilmowaJarocin/",
-        "Name": "Spółdzielnia Socjalna Zmysły",
-        "Address": "Gołębia 1",
-        "Phone": 501676721,
-        "Town": "Jarocin:"
-    },
-    {
-        "Url": "https://stodolajarocin.pl",
-        "Name": "Pizzeria Restauracja Stodoła",
-        "Address": "Popiełuszki 7",
-        "Phone": 605965566,
-        "Town": "Jarocin:"
-    },
-    {
-        "Url": "http://uschabinskiej.pl",
-        "Name": "Restauracja u Schabińskiej",
-        "Address": "Floriańska 56",
-        "Phone": 797334665,
-        "Town": "Jasło"
-    },
-    {
-        "Url": "http://www.bar-jelczanin.pl",
-        "Name": "Bar Jelczanin",
-        "Address": "Inzynierska 3",
-        "Phone": 511158457,
-        "Town": "Jelcz-Laskowice:"
-    },
-    {
-        "Url": "http://www.caspar.pl",
-        "Name": "Restauracja Caspar",
-        "Address": "Plac Piastowski 28",
-        "Phone": 756455001,
-        "Town": "Jelenia Góra:"
-    },
-    {
-        "Url": "http://swojakkg.pl",
-        "Name": "Swojak",
-        "Address": "Broniewskiego 18",
-        "Phone": 508063765,
-        "Town": "Kamienna Góra:"
-    },
-    {
-        "Url": "",
-        "Name": "Restauracja Fantasmagoria",
-        "Address": "Gliwicka 51",
-        "Phone": "322530059/571808722",
-        "Town": "Katowice:"
-    },
-    {
-        "Url": "http://katowice.zajebistapizza.com/",
-        "Name": "Zajebista Pizza",
-        "Address": "Józefowska 95",
-        "Phone": 790204622,
-        "Town": "Katowice:"
-    },
-    {
-        "Url": "https://www.facebook.com/Petitkatowice/",
-        "Name": "Petit Manufaktura",
-        "Address": "Wojewódzka 21",
-        "Phone": 661472680,
-        "Town": "Katowice:"
-    },
-    {
-        "Url": "http://kagamisushi.pl",
-        "Name": "Kagami Sushi",
-        "Address": "Gliwicka 44",
-        "Phone": 731821821,
-        "Town": "Katowice:"
-    },
-    {
-        "Url": "http://restauracja-stajer.pl",
-        "Name": "Restauracja Stajer",
-        "Address": "Panewnicka 90",
-        "Phone": 502990019,
-        "Town": "Katowice:"
-    },
-    {
-        "Url": "http://www.catering-arts.pl/obiady",
-        "Name": "Catering Arts",
-        "Address": "tel. 536066066",
-        "Phone": "",
-        "Town": "Katowice:"
-    },
-    {
-        "Url": "http://bierhalle.pl",
-        "Name": "Bierhalle",
-        "Address": "Chorzowska 107",
-        "Phone": 609677709,
-        "Town": "Katowice:"
-    },
-    {
-        "Url": "https://facebook.com/Bistronarynku/",
-        "Name": "BISTRO na rynku",
-        "Address": "Rynek 11",
-        "Phone": 661481115,
-        "Town": "Kędzierzyn-Koźle:"
-    },
-    {
-        "Url": "",
-        "Name": "Restauracja Zoni",
-        "Address": "Targowa 4",
-        "Phone": 511460746,
-        "Town": "Kędzierzyn-Koźle:"
-    },
-    {
-        "Url": "https://www.facebook.com/M%C4%99ski-Fartuch-840823862941473/",
-        "Name": "Męski Fartuch",
-        "Address": "Staszica 6",
-        "Phone": 690009595,
-        "Town": "Kępno:"
-    },
-    {
-        "Url": "https://facebok/mrsandwicz.pl",
-        "Name": "Mr. Sandwicz",
-        "Address": "Dobrzańskiego 29",
-        "Phone": 731778899,
-        "Town": "Kołobrzeg:"
-    },
-    {
-        "Url": "http://jupidiet.pl/",
-        "Name": "Jupi Diet",
-        "Address": "Jana Pawła II 1",
-        "Phone": 604790478,
-        "Town": "Końskie:"
-    },
-    {
-        "Url": "Piecownia",
-        "Name": "Piecownia",
-        "Address": "Dolna 1C",
-        "Phone": 604232922,
-        "Town": "Końskie:"
-    },
-    {
-        "Url": "https://www.facebook.com/2cv-Lunch-bar-103914501246078/",
-        "Name": "2cv Lauch Bar",
-        "Address": "Piastowska 1",
-        "Phone": 943480981,
-        "Town": "Koszalin:"
-    },
-    {
-        "Url": "https://facebook.com/wesolegary",
-        "Name": "Wesołe Gary",
-        "Address": "Urbanowicza 10a",
-        "Phone": 502497380,
-        "Town": "Kraków:"
-    },
-    {
-        "Url": "https://pl.tripadvisor.com/Restaurant_Review-g274772-d10872699-Reviews-Camino-Krakow_Lesser_Poland_Province_Southern_Poland.html",
-        "Name": "Camino",
-        "Address": "Stolarska 3",
-        "Phone": 533883006,
-        "Town": "Kraków:"
-    },
-    {
-        "Url": "https://pizzaiprosecco.pl",
-        "Name": "Pizza i Prosecco",
-        "Address": "Feliksa Konecznego 4/3U",
-        "Phone": 796459383,
-        "Town": "Kraków:"
-    },
-    {
-        "Url": "https://www.facebook.com/krakowskaspizarnia/",
-        "Name": "NOWA Krakowska Spiżarnia",
-        "Address": "Leona Petrazyckiego 27",
-        "Phone": 502262805,
-        "Town": "Kraków:"
-    },
-    {
-        "Url": "https://facebook.com/pizzeriagusto",
-        "Name": "Pizzeria Gusto",
-        "Address": "Polonijna 3",
-        "Phone": 883905564,
-        "Town": "Kraków:"
-    },
-    {
-        "Url": "https://facebook.com/curryupkrk",
-        "Name": "Curry up!",
-        "Address": "Krakowska 29",
-        "Phone": 730775073,
-        "Town": "Kraków:"
-    },
-    {
-        "Url": "https://facebook.com/aquariuskrakow/",
-        "Name": "Restauracja Aquarius",
-        "Address": "Bulwar Czerwieński 81",
-        "Phone": 505102677,
-        "Town": "Kraków:"
-    },
-    {
-        "Url": "https://facebook.com/NpizzaRajska/",
-        "Name": "N'Pizza",
-        "Address": "Rajska 3/2",
-        "Phone": 122628495,
-        "Town": "Kraków:"
-    },
-    {
-        "Url": "https://yanasushi.eu",
-        "Name": "Yana Sushi",
-        "Address": "Lwowska 1/6",
-        "Phone": 123072143,
-        "Town": "Kraków:"
-    },
-    {
-        "Url": "https://yanasushi.eu",
-        "Name": "Yana Sushi",
-        "Address": "Chmieleniec 2B/11",
-        "Phone": 123072272,
-        "Town": "Kraków:"
-    },
-    {
-        "Url": "https://www.facebook.com/aldentebistro/",
-        "Name": "Aldente Bistro",
-        "Address": "Spółdzielców 3",
-        "Phone": 126555595,
-        "Town": "Kraków:"
-    },
-    {
-        "Url": "https://facebook.com/nobonespl/",
-        "Name": "No Bones Vegan Food",
-        "Address": "Bracka 15",
-        "Phone": 123877880,
-        "Town": "Kraków:"
-    },
-    {
-        "Url": "http://www.foodology.pl",
-        "Name": "Foodology Panini Bar",
-        "Address": "plac Bohaterów Getta 16/I",
-        "Phone": 604159529,
-        "Town": "Kraków:"
-    },
-    {
-        "Url": "http://www.nowohuckisloik.pl",
-        "Name": "Nowohucki Sloik",
-        "Address": "os. Niepodległości 3a/4c",
-        "Phone": 604566254,
-        "Town": "Kraków:"
-    },
-    {
-        "Url": "http://pizza-gusto.pl",
-        "Name": "Pizzeria Gusto",
-        "Address": "os. Kombatantów 8a",
-        "Phone": 690008275,
-        "Town": "Kraków:"
-    },
-    {
-        "Url": "",
-        "Name": "Bar Zosia Pikolo",
-        "Address": "Półłanki 33a",
-        "Phone": 511210842,
-        "Town": "Kraków:"
-    },
-    {
-        "Url": "http://www.carlandbart.pl",
-        "Name": "Restauracja Carl &amp; Bart",
-        "Address": "Ks. Meiera 26",
-        "Phone": 791792095,
-        "Town": "Kraków:"
-    },
-    {
-        "Url": "http://miodowypiecyk.pl",
-        "Name": "Miodowy Piecyk",
-        "Address": "Miodowa 51a. tel. 796376755",
-        "Phone": "",
-        "Town": "Kraków:"
-    },
-    {
-        "Url": "http://www.chimera.com.pl",
-        "Name": "Chimera",
-        "Address": "św. Anny 3",
-        "Phone": 603603429,
-        "Town": "Kraków:"
-    },
-    {
-        "Url": "fitfoodpoland.pl",
-        "Name": "FitFood",
-        "Address": "os. Piastów 21B",
-        "Phone": 530148494,
-        "Town": "Kraków:"
-    },
-    {
-        "Url": "http://www.labaguette.pl",
-        "Name": "La Baguette",
-        "Address": "Beskidzka 27",
-        "Phone": 501718724,
-        "Town": "Kraków:"
-    },
-    {
-        "Url": "http://www.vegab.pl",
-        "Name": "Vegab",
-        "Address": "Starowiślna 8",
-        "Phone": 889113373,
-        "Town": "Kraków:"
-    },
-    {
-        "Url": "http://www.yapitosushi.pl",
-        "Name": "Yapito Sushi",
-        "Address": "Bolesława Orlińskiego 3",
-        "Phone": 731301003,
-        "Town": "Kraków:"
-    },
-    {
-        "Url": "http://www.pocolocokrakow.pl",
-        "Name": "Poco Loco",
-        "Address": "Czysta 9",
-        "Phone": 690800805,
-        "Town": "Kraków:"
-    },
-    {
-        "Url": "http://trattoriaulisa.pl",
-        "Name": "Trattoria U Lisa",
-        "Address": "Borkowska 25/6",
-        "Phone": 690242222,
-        "Town": "Kraków:"
-    },
-    {
-        "Url": "https://www.facebook.com/irishtorridon/",
-        "Name": "TORRIDON Restauracja-Pizzeria",
-        "Address": "Krakowska 21",
-        "Phone": 134324110,
-        "Town": "Krosno:"
-    },
-    {
-        "Url": "https://facebook.com/RestauracjaRondoKutno/",
-        "Name": "Restauracja Rondo",
-        "Address": "Mickiewicza 3",
-        "Phone": 605864778,
-        "Town": "Kutno:"
-    },
-    {
-        "Url": "https://facebook.com/kawiarniarestauracjanadruda/",
-        "Name": "Nad Rudą",
-        "Address": "Klasztorna 9",
-        "Phone": 510152234,
-        "Town": "Kuźnia Raciborska:"
-    },
-    {
-        "Url": "http://CateringLegnica.pl",
-        "Name": "Firma Cateringowa A.M. Skibinscy",
-        "Address": "Spłoneczna 3 Kunice",
-        "Phone": 516787397,
-        "Town": "Legnica:"
-    },
-    {
-        "Url": "",
-        "Name": "Barbik",
-        "Address": "Alei Rzeczpospolitej 51",
-        "Phone": 535669561,
-        "Town": "Legnica:"
-    },
-    {
-        "Url": "https://www.facebook.com/bistronowamelodia",
-        "Name": "Bistro Nowa Melodia",
-        "Address": "Przyjaźni 38",
-        "Phone": 504787305,
-        "Town": "Lublin:"
-    },
-    {
-        "Url": "https://www.facebook.com/KebabSkarpa/",
-        "Name": "Kebab Skarpa",
-        "Address": "Sympatyczna 5A",
-        "Phone": 510566990,
-        "Town": "Lublin:"
-    },
-    {
-        "Url": "https://Facebook.com/kebab.alibabalancut",
-        "Name": "Alibaba Kebab",
-        "Address": "Piłsudskiego 23",
-        "Phone": 884654884,
-        "Town": "Łańcut:"
-    },
-    {
-        "Url": "https://www.facebook.com/ciagoty/",
-        "Name": "Ciągoty i Tęsknoty",
-        "Address": "Wojska Polskiego 144a",
-        "Phone": 695991883,
-        "Town": "Łódź:"
-    },
-    {
-        "Url": "",
-        "Name": "Restauracja Con Ga Moi",
-        "Address": "Pomorska 118",
-        "Phone": 602249915,
-        "Town": "Łódź:"
-    },
-    {
-        "Url": "",
-        "Name": "AGK Krzysztof Antosiak",
-        "Address": "Kosynierów Gdyńskich 61",
-        "Phone": 501116936,
-        "Town": "Łódź:"
-    },
-    {
-        "Url": "https://www.facebook.com/niebostan/",
-        "Name": "Niebostan",
-        "Address": "Piotrkowska 17/33U",
-        "Phone": 602598067,
-        "Town": "Łódź:"
-    },
-    {
-        "Url": "http://www.pomodoropizza.pl",
-        "Name": "Pomodoro",
-        "Address": "Rewolucji 1905 roku 4",
-        "Phone": 531912212,
-        "Town": "Łódź:"
-    },
-    {
-        "Url": "https://saffron.com.pl/obiady-domowe/menu-tygodniowe/",
-        "Name": "Restauracja Saffron",
-        "Address": "Obywatelska 102/104",
-        "Phone": 668557997,
-        "Town": "Łódź:"
-    },
-    {
-        "Url": "",
-        "Name": "Restauracja Pierogarnia \"Palce Lizać\"",
-        "Address": "Milionowa 55",
-        "Phone": 512119073,
-        "Town": "Łódź:"
-    },
-    {
-        "Url": "https://www.facebook.pl/obiadyprzystruga",
-        "Name": "Domowe Przysmaki",
-        "Address": "Struga 24",
-        "Phone": 502315135,
-        "Town": "Łódź:"
-    },
-    {
-        "Url": "http://www.touchofindia.pl",
-        "Name": "Sneha Restauracja Indyjska",
-        "Address": "Zamenhofa 3a",
-        "Phone": 572375450,
-        "Town": "Łódź:"
-    },
-    {
-        "Url": "http://www.bierhalle.pl",
-        "Name": "Bierhalle Manufaktura",
-        "Address": "Drewnowska 58 lok rm 18",
-        "Phone": 609677740,
-        "Town": "Łódź:"
-    },
-    {
-        "Url": "http://www.bierhalle.pl",
-        "Name": "Esplanada by Bierhalle",
-        "Address": "Piotrowska 100",
-        "Phone": 507663913,
-        "Town": "Łódź:"
-    },
-    {
-        "Url": "https://facebook.com/MielecRocknRoll/",
-        "Name": "Rock&amp;Roll Cafe&amp;Pizza",
-        "Address": "P. Skargi 11A",
-        "Phone": 175832993,
-        "Town": "Mielec:"
-    },
-    {
-        "Url": "http://fratelli.pl",
-        "Name": "Fratelli",
-        "Address": "Staffa 4a",
-        "Phone": 602153074,
-        "Town": "Mielec:"
-    },
-    {
-        "Url": "http://quebabfactory.eu",
-        "Name": "Quebab Factory",
-        "Address": "Prusa 18",
-        "Phone": 731370330,
-        "Town": "Mikołów:"
-    },
-    {
-        "Url": "https://www.facebook.com/aksamitagata/",
-        "Name": "Dieta Cud",
-        "Address": "Piłsudskiego 4",
-        "Phone": 502769916,
-        "Town": "Mszana Dolna:"
-    },
-    {
-        "Url": "www.galicjanowysacz.pl",
-        "Name": "Galicja",
-        "Address": "Rynek 7",
-        "Phone": 530789199,
-        "Town": "Nowy Sącz:"
-    },
-    {
-        "Url": "https://www.facebook.com/Zielone-112-1369521283164857/",
-        "Name": "Zielone 112",
-        "Address": "Wyczółkowskiego 4a",
-        "Phone": 509945844,
-        "Town": "Nowy Sącz:"
-    },
-    {
-        "Url": "https://www.facebook.com/localsff/",
-        "Name": "Local Slow Food Fast",
-        "Address": "Fredry 1a",
-        "Phone": 730238899,
-        "Town": "Nowa Sól:"
-    },
-    {
-        "Url": "http://www.sushi-House.pl",
-        "Name": "Sushi House",
-        "Address": "Sikorskiego 51",
-        "Phone": 506707321,
-        "Town": "Nowy Targ:"
-    },
-    {
-        "Url": "https://chmieliwiklina.zobaczsmak.pl",
-        "Name": "Chmiel i Wiklina Catering",
-        "Address": "Powstańców Wlkp 1a",
-        "Phone": 668033711,
-        "Town": "Nowy Tomyśl:"
-    },
-    {
-        "Url": "https://facebook.com/Bistro-KURT",
-        "Name": "Bistro Kurt Nysa",
-        "Address": "M.J. Piłsudskiego 11A/2",
-        "Phone": 668027128,
-        "Town": "Nysa:"
-    },
-    {
-        "Url": "https://www.FitApetit.pl",
-        "Name": "Catering Dietetyczny FitApetit",
-        "Address": "tel. 514476647",
-        "Phone": "",
-        "Town": "Oborniki Wielkopolskie:"
-    },
-    {
-        "Url": "https://facebook.com/ARQBA11",
-        "Name": "Catering Arqba Olkusz",
-        "Address": "Kosynierów 10",
-        "Phone": 663615662,
-        "Town": "Olkusz:"
-    },
-    {
-        "Url": "https://facebook.com/Tandoorolsztyn/",
-        "Name": "Tandoor Kuchnia Indyjska",
-        "Address": "Grunwaldzka 33",
-        "Phone": 519732620,
-        "Town": "Olsztyn:"
-    },
-    {
-        "Url": "http://www.JoeGonzalez.eu",
-        "Name": "Joe Gonzalez",
-        "Address": "Kołłątaja 5",
-        "Phone": 504297647,
-        "Town": "Olsztyn:"
-    },
-    {
-        "Url": "http://ujacka.olsztyn.pl",
-        "Name": "Zatoka Smaku",
-        "Address": "Wodna 1C",
-        "Phone": 696100556,
-        "Town": "Olsztyn:"
-    },
-    {
-        "Url": "http://brykajacegarnki.eatbu.com",
-        "Name": "Brykające Garnki",
-        "Address": "Opolska 4",
-        "Phone": 518613469,
-        "Town": "Opole:"
-    },
-    {
-        "Url": "http://www.sanekobar.opole.pl",
-        "Name": "San Ekobar",
-        "Address": "Kościuszki 31",
-        "Phone": 692206222,
-        "Town": "Opole:"
-    },
-    {
-        "Url": "https://www.facebook.com/bistrokasteloswiecim",
-        "Name": "Bistro Kastel",
-        "Address": "Żwirki i Wigury 31",
-        "Phone": 503565260,
-        "Town": "Oświęcim:"
-    },
-    {
-        "Url": "https://www.facebook.com/prestopabianice/",
-        "Name": "Pizzeria Trattoria Presto",
-        "Address": "Bugaj 59",
-        "Phone": 712252654,
-        "Town": "Pabianice:"
-    },
-    {
-        "Url": "https://facebook.com/KinderKatering",
-        "Name": "Kinder Katering",
-        "Address": "Sienkiewicza 13",
-        "Phone": 698590059,
-        "Town": "Piaseczno:"
-    },
-    {
-        "Url": "http://osiedlowaplock.pl",
-        "Name": "Restauracja Osiedlowa",
-        "Address": "Miodowa 8/23",
-        "Phone": 571903311,
-        "Town": "Płock:"
-    },
-    {
-        "Url": "http://oregano-police.pl/",
-        "Name": "Pizzeria Oregano",
-        "Address": "Bankowa 11cde/7",
-        "Phone": 918523128,
-        "Town": "Police:"
-    },
-    {
-        "Url": "http://pizzataxi.pl",
-        "Name": "Pizza Taxi",
-        "Address": "Na Miasteczku 12",
-        "Phone": 616704000,
-        "Town": "Poznań:"
-    },
-    {
-        "Url": "https://facebook.com/bulwaRrestauracja",
-        "Name": "Bulwar",
-        "Address": "Stary Rynek 37",
-        "Phone": 533181171,
-        "Town": "Poznań:"
-    },
-    {
-        "Url": "http://pizzeriativoli.pl",
-        "Name": "Pizzeria Tivoli.pl",
-        "Address": "Wroniecka 13",
-        "Phone": 502606939,
-        "Town": "Poznań:"
-    },
-    {
-        "Url": "http://www.pierogarnie.com",
-        "Name": "Pierogarnia Stary Młyn",
-        "Address": "Zamkowa 7",
-        "Phone": 611015000,
-        "Town": "Poznań:"
-    },
-    {
-        "Url": "https://www.facebook.com/LaSpezia.Radom/",
-        "Name": "La Spezia",
-        "Address": "Sandomierska 1",
-        "Phone": 691952722,
-        "Town": "Radom:"
-    },
-    {
-        "Url": "http://www.lubudububar.pl",
-        "Name": "Łubu Dubu",
-        "Address": "Poniatowskiego 6 lok. 3/4",
-        "Phone": 883999030,
-        "Town": "Radom:"
-    },
-    {
-        "Url": "",
-        "Name": "TuLisMaNore Cafe",
-        "Address": "Wojska Polskiego 29",
-        "Phone": 511418018,
-        "Town": "Ruda Śląska:"
-    },
-    {
-        "Url": "https://facebook.com/trattoriarudaslaska/",
-        "Name": "Trattoria Ventiquattro",
-        "Address": "Owocowa 24a",
-        "Phone": 501473258,
-        "Town": "Ruda Śląska:"
-    },
-    {
-        "Url": "https://facebook.com/barprzysmakhalemba/",
-        "Name": "Bar \"Przysmak\"",
-        "Address": "1-go Maja 31",
-        "Phone": 322434745,
-        "Town": "Ruda Śląska:"
-    },
-    {
-        "Url": "http://www.zajebistapizza.com/",
-        "Name": "Zajebista Pizza",
-        "Address": "tel. 600794273",
-        "Phone": "",
-        "Town": "Ruda Śląska:"
-    },
-    {
-        "Url": "https://m.facebook.com/SantoriniRybnik/",
-        "Name": "Santorini",
-        "Address": "Rynek 8",
-        "Phone": 324316175,
-        "Town": "Rybnik:"
-    },
-    {
-        "Url": "http://www.patiosushi.pl",
-        "Name": "Patio Sushi",
-        "Address": "Powstańców Śląskich 6",
-        "Phone": 692641444,
-        "Town": "Rybnik:"
-    },
-    {
-        "Url": "https://facebook.com/BIOrself-2072211339510382/",
-        "Name": "BIOrself Catering Dietetyczny",
-        "Address": "Karola Wojtyły 6",
-        "Phone": 515573685,
-        "Town": "Ryki:"
-    },
-    {
-        "Url": "https://facebook.com/Lychee.Bar/",
-        "Name": "Lychee Cocktails&amp;Restaurant",
-        "Address": "Kopisto 8a",
-        "Phone": 530867687,
-        "Town": "Rzeszów:"
-    },
-    {
-        "Url": "https://https//www.facebook.com/vendettafoodfactory",
-        "Name": "Pizzeria Vendetta",
-        "Address": "Mickiewicza 21",
-        "Phone": 575841270,
-        "Town": "Rzeszów:"
-    },
-    {
-        "Url": "https://facebook.com/PizzeriaBostonRzeszow/",
-        "Name": "Pizza&amp;Burger Boston",
-        "Address": "Gromskiego 8",
-        "Phone": 604740860,
-        "Town": "Rzeszów:"
-    },
-    {
-        "Url": "http://Parkova51.pl",
-        "Name": "Restauracja Parkova51",
-        "Address": "Paderewskiego 51",
-        "Phone": 535208000,
-        "Town": "Rzeszów:"
-    },
-    {
-        "Url": "https://facebook.com/cukierniaslodkiesiostry/",
-        "Name": "Cukiernia Słodkie Siostry",
-        "Address": "Ks. Jałowego 3",
-        "Phone": 664646186,
-        "Town": "Rzeszów:"
-    },
-    {
-        "Url": "http://zciekawosci.pl/",
-        "Name": "Z Ciekawości",
-        "Address": "Jana III Sobieskiego 93/94",
-        "Phone": 505440017,
-        "Town": "Rzeszów:"
-    },
-    {
-        "Url": "http://Republikapolsko-francuska.pl",
-        "Name": "Republika polsko-francuska",
-        "Address": "Na Skały 1a",
-        "Phone": 511309809,
-        "Town": "Rzeszów:"
-    },
-    {
-        "Url": "http://www.toscana.rzeszow.pl",
-        "Name": "Toscana",
-        "Address": "Dukierska 4/3L",
-        "Phone": 177402345,
-        "Town": "Rzeszów:"
-    },
-    {
-        "Url": "http://www.hokusrzeszow.pl",
-        "Name": "Hokus Pokus",
-        "Address": "2003-05-12T22:00:00.000Z",
-        "Phone": 530861274,
-        "Town": "Rzeszów:"
-    },
-    {
-        "Url": "http://www.fabrykaobiadow.com.pl",
-        "Name": "Fabryka Obiadów",
-        "Address": "Hanasiewicza 10",
-        "Phone": 502657790,
-        "Town": "Rzeszów:"
-    },
-    {
-        "Url": "http://www.warsztatpizza.pl",
-        "Name": "Warsztat Pizza",
-        "Address": "Wyspiańskiego 18D",
-        "Phone": 578516940,
-        "Town": "Rzeszów:"
-    },
-    {
-        "Url": "http://www.zielonygosciniec.pl",
-        "Name": "Zielony Gościniec",
-        "Address": "Stara 40",
-        "Phone": 510497218,
-        "Town": "Sarnów:"
-    },
-    {
-        "Url": "",
-        "Name": "Smaki Azji",
-        "Address": "Śląska 39",
-        "Phone": 502083105,
-        "Town": "Siemianowice Śląskie:"
-    },
-    {
-        "Url": "http://www.zajebistapizza.com/",
-        "Name": "Zajebista Pizza",
-        "Address": "tel. 790204899",
-        "Phone": "",
-        "Town": "Siemianowice Śląskie:"
-    },
-    {
-        "Url": "https://www.facebook.com/BigZapBar2015/",
-        "Name": "Kery Burger",
-        "Address": "Michałkowicka 28",
-        "Phone": 607530102,
-        "Town": "Siemianowice Śląskie:"
-    },
-    {
-        "Url": "https://facebook.com/rejtanowka",
-        "Name": "Rejtanówka Restobar",
-        "Address": "Kościuszki 13",
-        "Phone": 572578877,
-        "Town": "Słomniki:"
-    },
-    {
-        "Url": "http://www.asado.pl",
-        "Name": "Przystanek Smaku",
-        "Address": "Kołłątaja 15",
-        "Phone": 574973229,
-        "Town": "Słupsk:"
-    },
-    {
-        "Url": "",
-        "Name": "Bistro AM",
-        "Address": "Haffnera 6",
-        "Phone": 507094278,
-        "Town": "Sopot:"
-    },
-    {
-        "Url": "",
-        "Name": "Dojo Sushi Bar",
-        "Address": "Grota Roweckiego 203",
-        "Phone": 514838777,
-        "Town": "Sosnowiec:"
-    },
-    {
-        "Url": "http://Gurinsushi.pl",
-        "Name": "Gurin Sushi",
-        "Address": "Hubala Dobrzańskiego 70",
-        "Phone": 575277300,
-        "Town": "Sosnowiec:"
-    },
-    {
-        "Url": "http://radelko.pl",
-        "Name": "Pizzeria Radełko",
-        "Address": "Dobrzańskiego 29",
-        "Phone": 731299199,
-        "Town": "Sosnowiec:"
-    },
-    {
-        "Url": "Starogard Gdański:",
-        "Name": "",
-        "Address": "",
-        "Phone": "",
-        "Town": "Sosnowiec:"
-    },
-    {
-        "Url": "https://facebook.com/barmleczny.junior/",
-        "Name": "Bar Mleczny Junior",
-        "Address": "Rynek 32",
-        "Phone": 585622753,
-        "Town": "Sosnowiec:"
-    },
-    {
-        "Url": "",
-        "Name": "Bistro Ale Żarcie",
-        "Address": "Ks. Kellera 7",
-        "Phone": 607213503,
-        "Town": "Sosnowiec:"
-    },
-    {
-        "Url": "",
-        "Name": "Bar Fantazja",
-        "Address": "Dzierżoniowska 16d/1",
-        "Phone": 696612154,
-        "Town": "Strzelin:"
-    },
-    {
-        "Url": "http://fcateringpodlaski.pl",
-        "Name": "Catering Podlaski",
-        "Address": "Mickiewicza 8",
-        "Phone": 512471247,
-        "Town": "Suwałki:"
-    },
-    {
-        "Url": "https://facebook.com/restauracja.RAMZES/",
-        "Name": "Restauracja RAMZES",
-        "Address": "Dworcowa 2",
-        "Phone": 322456493,
-        "Town": "Świętochłowice:"
-    },
-    {
-        "Url": "http://pizzeria-vendetta.eu",
-        "Name": "Pizzeria Vendetta",
-        "Address": "Krasickiego 3",
-        "Phone": 323070601,
-        "Town": "Świętochłowice:"
-    },
-    {
-        "Url": "http://www.zajebistapizza.com/",
-        "Name": "Zajebista Pizza",
-        "Address": "tel. 600794257",
-        "Phone": "",
-        "Town": "Świętochłowice:"
-    },
-    {
-        "Url": "https://www.alanya.net.pl",
-        "Name": "Restauracja i Catering Alanya Szamotuły",
-        "Address": "Sportowa 12",
-        "Phone": 669728583,
-        "Town": "Szamotuły:"
-    },
-    {
-        "Url": "http://barlenka.szczecin.pl",
-        "Name": "Bar Lenka",
-        "Address": "Krasińskiego 3",
-        "Phone": 514422878,
-        "Town": "Szczecin:"
-    },
-    {
-        "Url": "https://pl-pl.facebook.com/BerlinDonerKebap/",
-        "Name": "Berlin Doner Kebap",
-        "Address": "Bohaterów Warszawy 40",
-        "Phone": 510062506,
-        "Town": "Szczecin:"
-    },
-    {
-        "Url": "http://www.jedziecatering.pl",
-        "Name": "Jedziecatering.pl",
-        "Address": "Pokoju 48",
-        "Phone": 736774415,
-        "Town": "Szczecin:"
-    },
-    {
-        "Url": "",
-        "Name": "Jadalnia Kamila Kulasek",
-        "Address": "Piłsudskiego 22a",
-        "Phone": 694792196,
-        "Town": "Świebodzin:"
-    },
-    {
-        "Url": "https://www.facebook.com/restauracjasherlock",
-        "Name": "Restauracja Sherlock",
-        "Address": "Rynek 7",
-        "Phone": 322552525,
-        "Town": "Tarnowskie Góry:"
-    },
-    {
-        "Url": "http://www.hotelfilmar.pl",
-        "Name": "Filmar",
-        "Address": "Grudziądzka 39/43",
-        "Phone": 566694800,
-        "Town": "Toruń:"
-    },
-    {
-        "Url": "www.domsushi.pl",
-        "Name": "Dom Sushi",
-        "Address": "Franciszkańska 5",
-        "Phone": 509646146,
-        "Town": "Toruń:"
-    },
-    {
-        "Url": "http://www.pierogarnie.com",
-        "Name": "Pierogarnia Stary Młyn",
-        "Address": "Most Pauliński 2-10",
-        "Phone": 566211046,
-        "Town": "Toruń:"
-    },
-    {
-        "Url": "",
-        "Name": "Kawiarnia Natura Słodyczy",
-        "Address": "Szosa Chełmińska 138",
-        "Phone": 605300185,
-        "Town": "Toruń:"
-    },
-    {
-        "Url": "",
-        "Name": "Dworek Wymysłowo",
-        "Address": "Wymysłowo 1",
-        "Phone": 793678900,
-        "Town": "Tuchola"
-    },
-    {
-        "Url": "https://www.facebook.com/restauracjakaya",
-        "Name": "Restauracja Kaya",
-        "Address": "Jana Pawła II 10",
-        "Phone": 515801881,
-        "Town": "Tychy:"
-    },
-    {
-        "Url": "https://facebook.com/SumoSushiRestaurant/",
-        "Name": "Sumo Sushi",
-        "Address": "Zatorska 2",
-        "Phone": 533316743,
-        "Town": "Wadowice:"
-    },
-    {
-        "Url": "",
-        "Name": "Pizzeria Barman",
-        "Address": "Piłsudskiego 21",
-        "Phone": 536473475,
-        "Town": "Wałbrzych:"
-    },
-    {
-        "Url": "http://restauracja-mlyn.pl/",
-        "Name": "Restauracja Stary Młyn",
-        "Address": "1940-04-30T23:00:00.000Z",
-        "Phone": 500688123,
-        "Town": "Wąbrzeźno:"
-    },
-    {
-        "Url": "https://www.facebook.com/fenixwielen",
-        "Name": "Fenix",
-        "Address": "Plac Powstania Wlkp. 5",
-        "Phone": 513835556,
-        "Town": "Wieleń:"
-    },
-    {
-        "Url": "https://facebook.com/restauracjawiejskachata",
-        "Name": "Restauracja Wiejska Chata",
-        "Address": "Rynek 17",
-        "Phone": 324560658,
-        "Town": "Wodzisław Śląski:"
-    },
-    {
-        "Url": "https://www.facebook.com/trattoriawloskieklimaty/",
-        "Name": "Trattoria Włoskie Klimaty",
-        "Address": "Arendarska 2",
-        "Phone": 503035300,
-        "Town": "Wodzisław Śląski:"
-    },
-    {
-        "Url": "http://restauracjakamaro.pl",
-        "Name": "Restauracja Kamaro",
-        "Address": "Os. Przyjaźni 31b",
-        "Phone": 667911148,
-        "Town": "Wodzisław Śląski:"
-    },
-    {
-        "Url": "http://www.pilsnerpub.pl/",
-        "Name": "Restauracja Pilsner Pub",
-        "Address": "Rynek 8",
-        "Phone": 790521747,
-        "Town": "Wodzisław Śląski:"
-    },
-    {
-        "Url": "https://facebook.com/perpanplacek/",
-        "Name": "Per Pan Placek",
-        "Address": "Stabłowicka 152",
-        "Phone": 727272760,
-        "Town": "Wrocław:"
-    },
-    {
-        "Url": "http://esencja-sushi.pl",
-        "Name": "Esencja Sushi&amp;Orient",
-        "Address": "Średzka 21",
-        "Phone": 733099733,
-        "Town": "Wrocław:"
-    },
-    {
-        "Url": "http://projektplacek.pl",
-        "Name": "Projekt Pacek",
-        "Address": "Nowodworska 39/1A",
-        "Phone": 791119999,
-        "Town": "Wrocław:"
-    },
-    {
-        "Url": "https://www.facebook.com/pages/edit/info/378812596069463?_rdr",
-        "Name": "Bistro Syta Micha",
-        "Address": "Główna 146b Stabłowice",
-        "Phone": 504134253,
-        "Town": "Wrocław:"
-    },
-    {
-        "Url": "https://www.facebook.com/soupcultureplwroclaw/",
-        "Name": "Soup Culture</a> Wrocław",
-        "Address": "Świdnicka 43",
-        "Phone": 796722958,
-        "Town": "Wrocław:"
-    },
-    {
-        "Url": "http://www.yemsetu.pl",
-        "Name": "Yemsetu",
-        "Address": "plac Piłsudskiego 5",
-        "Phone": 667222006,
-        "Town": "Wrocław:"
-    },
-    {
-        "Url": "http://www.yemsetu.pl",
-        "Name": "Yemse2",
-        "Address": "Życzliwa 11a",
-        "Phone": 725998880,
-        "Town": "Wrocław:"
-    },
-    {
-        "Url": "http://www.abradable.pl",
-        "Name": "Abradable",
-        "Address": "Kołłątaja 26",
-        "Phone": 782870793,
-        "Town": "Wrocław:"
-    },
-    {
-        "Url": "http://zabrze.zajebistapizza.com",
-        "Name": "Zajebista Pizza",
-        "Address": "Chopina 16",
-        "Phone": 532122318,
-        "Town": "Zabrze:"
-    },
-    {
-        "Url": "https://www.facebook.com/barcytat/",
-        "Name": "Bistro-Bar Cytat",
-        "Address": "pl. Dworcowy 7",
-        "Phone": 539954996,
-        "Town": "Zabrze:"
-    },
-    {
-        "Url": "https://facebook.com/PalacZdunowo/",
-        "Name": "Pałac Zdunowo",
-        "Address": "Zdunowo 50",
-        "Phone": 236619800,
-        "Town": "Załuski:"
-    },
-    {
-        "Url": "http://www.pizzerialas.pl",
-        "Name": "Pizzeria Las",
-        "Address": "Miejska 12",
-        "Phone": 575123730,
-        "Town": "Zawiercie:"
-    },
-    {
-        "Url": "https://www.facebook.com/OhyAhyZG/",
-        "Name": "OhyAhy",
-        "Address": "Kościelna 2",
-        "Phone": 577771200,
-        "Town": "Zielona Góra:"
-    },
-    {
-        "Url": "",
-        "Name": "Bistro Natalia Hładka-Czerniecka",
-        "Address": "Sienkiewicza 36",
-        "Phone": 796484838,
-        "Town": "Zielona Góra:"
-    },
-    {
-        "Url": "",
-        "Name": "Burger House Zielona Góra",
-        "Address": "Kazimierza Wielkiego 6/1",
-        "Phone": 537545068,
-        "Town": "Zielona Góra:"
-    },
-    {
-        "Url": "",
-        "Name": "Moja Kuchnia do Syta",
-        "Address": "Niepodległości 11A",
-        "Phone": 723072740,
-        "Town": "Zielona Góra:"
-    },
-    { "Url": "", "Name": "", "Address": "", "Phone": "", "Town": "" }
+  {
+    "Url": "https://facebook.com/CafeFurkotChlodna",
+    "Name": "Cafe Fukrot",
+    "Address": "Chłodna 2/18",
+    "Phone": 221213145,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "20.9909981",
+      "y": "52.237995"
+    }
+  },
+  {
+    "Url": "https://facebook.com/kielbawgebie/",
+    "Name": "Kiełba w Gębie",
+    "Address": "Koszykowa 63",
+    "Phone": 733087956,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "21.0110247",
+      "y": "52.2223007"
+    }
+  },
+  {
+    "Url": "https://facebook.com/AgencjaCateringowaParty",
+    "Name": "Agencja Cateringowa Party",
+    "Address": "Rakowiecka 36",
+    "Phone": 228498597,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "20.9998858",
+      "y": "52.2077764"
+    }
+  },
+  {
+    "Url": "https://facebook.com/Lafinestrapizza",
+    "Name": "Restauracja La Finestra",
+    "Address": "Grójecka 46/50",
+    "Phone": 515908011,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "20.9809973",
+      "y": "52.2166757"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/wiekszapolowa.eu",
+    "Name": "Większa Połowa",
+    "Address": "Wrocławska 7e",
+    "Phone": 792045552,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "20.9234941",
+      "y": "52.2520065"
+    }
+  },
+  {
+    "Url": "",
+    "Name": "Chupan Kebab",
+    "Address": "Kazimierza Wyki 2D",
+    "Phone": 788566070,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "20.90208072368637",
+      "y": "52.23005495"
+    }
+  },
+  {
+    "Url": "https://facebook.com/bistrowaza/",
+    "Name": "Bistro Waza Smoków",
+    "Address": "Brata Alberta 19",
+    "Phone": 607080232,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "21.190684876709184",
+      "y": "52.24303055"
+    }
+  },
+  {
+    "Url": "http://mojopicon.pl",
+    "Name": "Mojo Picón",
+    "Address": "Prosta 53",
+    "Phone": 222414800,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "20.997406",
+      "y": "52.2327902"
+    }
+  },
+  {
+    "Url": "http://monticello.pl",
+    "Name": "Monticello Ristorante",
+    "Address": "Drawska 22",
+    "Phone": 508029163,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "20.956564599387132",
+      "y": "52.2062153"
+    }
+  },
+  {
+    "Url": "https://facebook.com/antoniopizzapl/",
+    "Name": "Antonio Pizza&amp;Pasta",
+    "Address": "Majdańska 7",
+    "Phone": 224987007,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "21.0853601",
+      "y": "52.2401954"
+    }
+  },
+  {
+    "Url": "http://nanowolipkach.pl",
+    "Name": "Pizzeria na Nowolipkach",
+    "Address": "Nowolipki 15",
+    "Phone": 224988877,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "20.9929691",
+      "y": "52.2451048"
+    }
+  },
+  {
+    "Url": "http://pizzerianadickensa.pl",
+    "Name": "Pizzeria na Dickensa",
+    "Address": "Dickensa 17a",
+    "Phone": 665556670,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "20.9690444",
+      "y": "52.2065574"
+    }
+  },
+  {
+    "Url": "https://facebook.com/breakartlunch/",
+    "Name": "Break and Lunch",
+    "Address": "Domaniewska 32",
+    "Phone": 511364704,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "21.01078590655879",
+      "y": "52.1838444"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/W%C5%82oski-Strajk-490616791741720/",
+    "Name": "Włoski Strajk",
+    "Address": "Złota 8",
+    "Phone": 508333639,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "21.011026",
+      "y": "52.2331239"
+    }
+  },
+  {
+    "Url": "https://facebook.com/624981664226252",
+    "Name": "MOMMO GOOD FOOD",
+    "Address": "Aleje Jerozolimskie 28",
+    "Phone": 228274010,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "21.0191994",
+      "y": "52.2316255"
+    }
+  },
+  {
+    "Url": "https://facebook.com/burgerynoca",
+    "Name": "Burgery Nocą",
+    "Address": "Nieszawska 4d/5",
+    "Phone": 787412412,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "21.0224928",
+      "y": "52.2904376"
+    }
+  },
+  {
+    "Url": "https://facebook.com/TelAviv.UrbanFood/",
+    "Name": "Tel Aviv Urban Food",
+    "Address": "Poznańska 11",
+    "Phone": 226211128,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "21.0119288",
+      "y": "52.2245973"
+    }
+  },
+  {
+    "Url": "https://pizzerialacasa.pl",
+    "Name": "Pizzeria La Casa",
+    "Address": "1959-01-16T23:00:00.000Z",
+    "Phone": 501225714,
+    "Town": "Warszawa"
+  },
+  {
+    "Url": "http://czyliczyli.pl",
+    "Name": "Czyli Czyli",
+    "Address": "Komisji Edukacji Narodowej 19",
+    "Phone": 883415500,
+    "Town": "Warszawa"
+  },
+  {
+    "Url": "http://pizzadziada.pl",
+    "Name": "Pizza Nocą u Dziadka",
+    "Address": "Powstańców Śląskich 124",
+    "Phone": 883903706,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "20.9282834",
+      "y": "52.262948"
+    }
+  },
+  {
+    "Url": "https://facebook.com/cafeagrafka",
+    "Name": "Cafe Agrafka",
+    "Address": "Wrocławska 20a",
+    "Phone": 604635955,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "20.925372",
+      "y": "52.2517686"
+    }
+  },
+  {
+    "Url": "https://facebook.com/roslinacafe",
+    "Name": "Kawiarnia i bistro Roślina",
+    "Address": "Schroegera 80",
+    "Phone": 608031810,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "20.9446803",
+      "y": "52.2803686"
+    }
+  },
+  {
+    "Url": "https://facebook.com/pho206",
+    "Name": "PHO 206",
+    "Address": "Ogrodowa 37",
+    "Phone": 668843623,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "20.987711849202235",
+      "y": "52.238260749999995"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/restauracjaprzykominku/",
+    "Name": "Restauracja Przy Kominku",
+    "Address": "Patriotów 45",
+    "Phone": 501519592,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "21.2127016",
+      "y": "52.1594465"
+    }
+  },
+  {
+    "Url": "http://www.asado.pl",
+    "Name": "Asado Mezze &amp; Grill",
+    "Address": "Kredytowa 4",
+    "Phone": 500872747,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "21.0106023",
+      "y": "52.238055"
+    }
+  },
+  {
+    "Url": "http://www.groole.pl",
+    "Name": "Groole",
+    "Address": "Śniadeckich 8",
+    "Phone": 796217489,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "21.0151053",
+      "y": "52.2216692"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/czasnalunch/",
+    "Name": "Czas Na Lunch",
+    "Address": "Wałbrzyska 11",
+    "Phone": 500016617,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "21.0249507",
+      "y": "52.1729585"
+    }
+  },
+  {
+    "Url": "http://www.tahina.pl",
+    "Name": "Tahina",
+    "Address": "Wilcza 26/U3",
+    "Phone": 500732720,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "21.0148115",
+      "y": "52.2246947"
+    }
+  },
+  {
+    "Url": "http://www.soupculture.pl",
+    "Name": "Soup Culture",
+    "Address": "al. Jana Pawła II 38",
+    "Phone": 500203582,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "20.9946822",
+      "y": "52.2413572"
+    }
+  },
+  {
+    "Url": "http://www.pracowniasushi.pl",
+    "Name": "Pracownia Sushi",
+    "Address": "Kolejowa 45/U10",
+    "Phone": 222209915,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "20.983973",
+      "y": "52.2263205"
+    }
+  },
+  {
+    "Url": "http://www.agerecontra.pl",
+    "Name": "Agere Contra",
+    "Address": "Chłodna 2/18",
+    "Phone": 502265577,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "20.9909981",
+      "y": "52.237995"
+    }
+  },
+  {
+    "Url": "http://www.indiaexpress.pl/",
+    "Name": "India Express Sienna",
+    "Address": "Sienna 87",
+    "Phone": 224688979,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "20.992013887041466",
+      "y": "52.22979155"
+    }
+  },
+  {
+    "Url": "http://www.indiaexpress.pl/",
+    "Name": "India Express Mokotów",
+    "Address": "Etiudy Rewolucyjnej 9",
+    "Phone": 222436633,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "20.9897002",
+      "y": "52.1911689"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/BobbyBurgerStawki/",
+    "Name": "Bobby Burger Stawki",
+    "Address": "Stawki 8",
+    "Phone": 510227773,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "21.3074253",
+      "y": "51.56832"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/BobbyBurgerGrojecka/",
+    "Name": "Bobby Burger Grójecka",
+    "Address": "Grójecka 34",
+    "Phone": 881922174,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "20.9840243",
+      "y": "52.220137"
+    }
+  },
+  {
+    "Url": "http://www.indiaexpress.pl",
+    "Name": "Mandala Bielany",
+    "Address": "Daniłowskiego 47",
+    "Phone": 224284454,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "20.94641685",
+      "y": "52.2785807"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/BobbyBurgerSaska/",
+    "Name": "Bobby Burger Saska Kępa",
+    "Address": "Poselska 2/U2",
+    "Phone": 226162711,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "21.0532993",
+      "y": "52.2329729"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/BobbyBurgerEmiliiPlater/",
+    "Name": "Bobby Burger Emilii Plater",
+    "Address": "Emilii Plater 47",
+    "Phone": 224046623,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "21.0031419",
+      "y": "52.2314668"
+    }
+  },
+  {
+    "Url": "http://www.doux.pl",
+    "Name": "Doux Cukiernia &amp; Kawiarnia",
+    "Address": "Kondratowicza 37",
+    "Phone": 510635444,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "21.02817928611146",
+      "y": "52.29442785"
+    }
+  },
+  {
+    "Url": "",
+    "Name": "Bobby Burger Rondo Wiatraczna",
+    "Address": "Grochowska 210/212 lok. U 6/7",
+    "Phone": 881922181,
+    "Town": "Warszawa"
+  },
+  {
+    "Url": "https://www.facebook.com/UnitedStreetFoodWarszawa/",
+    "Name": "United Street Food",
+    "Address": "Fosa 3",
+    "Phone": 538488884,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "21.0456044",
+      "y": "52.1740586"
+    }
+  },
+  {
+    "Url": "http://www.podpodkowa.pl",
+    "Name": "Restauracja Pod Podkową",
+    "Address": "Pulawska 266",
+    "Phone": 515313428,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "21.0158399",
+      "y": "52.1651313"
+    }
+  },
+  {
+    "Url": "http://www.hotelmistral.pl",
+    "Name": "Restauracja Mistral",
+    "Address": "Słoneczna 1",
+    "Phone": 227812754,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "17.40406",
+      "y": "53.988"
+    }
+  },
+  {
+    "Url": "http://www.bistrolacocotte.com",
+    "Name": "Bistro la Cocotte",
+    "Address": "Mokotowska 12",
+    "Phone": 664906000,
+    "Town": "Warszawa",
+    "Position": {
+      "x": "21.0183878",
+      "y": "52.2202723"
+    }
+  },
+  {
+    "Url": "http://nova-invest.pl",
+    "Name": "Nocny Marek",
+    "Address": "Piastowska 69",
+    "Phone": "609458339",
+    "Town": "Warszawa",
+    "Position": {
+      "x": "21.1824344",
+      "y": "52.2458551"
+    }
+  },
+  {
+    "Url": "http://tenshisushi.pl",
+    "Name": "Tenshi Sushi",
+    "Address": "Plac Kościuszki 23",
+    "Phone": 785730770,
+    "Town": "Aleksandrów Łódzki"
+  },
+  {
+    "Url": "",
+    "Name": "Chłopskie Jadło",
+    "Address": "Annopol 2",
+    "Phone": 733462236,
+    "Town": "Annopol",
+    "Position": {
+      "x": "21.0245258",
+      "y": "52.2990017"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/215561072197465/",
+    "Name": "Spółdzielnia Socjalna Jaśmin",
+    "Address": "Katowicka 10",
+    "Phone": 721312391,
+    "Town": "Baranów",
+    "Position": {
+      "x": "18.036348763917847",
+      "y": "51.2416819"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/cateringdosyta/",
+    "Name": "Catering Do Syta",
+    "Address": "Jana Pawła II 11",
+    "Phone": 512269114,
+    "Town": "Biała Podlaska",
+    "Position": {
+      "x": "23.0250405",
+      "y": "52.1351083"
+    }
+  },
+  {
+    "Url": "https://facebook.com/Mily.burger/",
+    "Name": "Miły Burger",
+    "Address": "Wesoła 16",
+    "Phone": 519695226,
+    "Town": "Białystok",
+    "Position": {
+      "x": "23.1525614",
+      "y": "53.1225525"
+    }
+  },
+  {
+    "Url": "http://www.poswieciekuchnik.pl/",
+    "Name": "Po Świecie Kuchni",
+    "Address": "Strażacka 81",
+    "Phone": 509220363,
+    "Town": "Bielsko-Biała",
+    "Position": {
+      "x": "18.9692333",
+      "y": "49.8218709"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/bilgorajchilout/",
+    "Name": "Chillout",
+    "Address": "Sikorskiego 7A",
+    "Phone": 600350600,
+    "Town": "Biłgoraj",
+    "Position": {
+      "x": "22.714272677436195",
+      "y": "50.53174225"
+    }
+  },
+  {
+    "Url": "http://takeafruit.pl",
+    "Name": "Take a Fruit",
+    "Address": "Przemysłowa 1",
+    "Phone": 221105080,
+    "Town": "Blizne Łaszczyńskiego",
+    "Position": {
+      "x": "20.88030620675412",
+      "y": "52.23274265"
+    }
+  },
+  {
+    "Url": "http://zajazdrowerowy.pl/",
+    "Name": "Zajazd Rowerowy Nawsie",
+    "Address": "Zakopiańska 2",
+    "Phone": 576960730,
+    "Town": "Bolęcin",
+    "Position": {
+      "x": "19.480277636795776",
+      "y": "50.116553350000004"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/ParkHotelBydgoszcz/",
+    "Name": "Park Hotel",
+    "Address": "Wrocławska 3",
+    "Phone": 513069794,
+    "Town": "Bydgoszcz",
+    "Position": {
+      "x": "17.9796089",
+      "y": "53.1266242"
+    }
+  },
+  {
+    "Url": "http://www.pierogarnie.com",
+    "Name": "Pierogarnia Stary Młyn",
+    "Address": "Poznańska 4/2",
+    "Phone": 523471164,
+    "Town": "Bydgoszcz",
+    "Position": {
+      "x": "17.9872168",
+      "y": "53.1220006"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/podrodze.bytom/",
+    "Name": "Po Drodze",
+    "Address": "Żołnierza Polskiego 19",
+    "Phone": 575540903,
+    "Town": "Bytom",
+    "Position": {
+      "x": "18.924710202278476",
+      "y": "50.350966799999995"
+    }
+  },
+  {
+    "Url": "http://quebabfactory.eu",
+    "Name": "Quebab Factory",
+    "Address": "Podgórna 2",
+    "Phone": 731370330,
+    "Town": "Bytom",
+    "Position": {
+      "x": "18.9246336",
+      "y": "50.3486761"
+    }
+  },
+  {
+    "Url": "http://www.zajebistapizza.com/",
+    "Name": "Zajebista Pizza",
+    "Address": "tel. 600794257",
+    "Phone": "",
+    "Town": "Bytom"
+  },
+  {
+    "Url": "",
+    "Name": "Bistroszyneczka",
+    "Address": "Konstytucji 103",
+    "Phone": 606104315,
+    "Town": "Bytom",
+    "Position": {
+      "x": "18.876255667197135",
+      "y": "50.352052900000004"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/Aledobrechorzow/",
+    "Name": "Restauracja A'le Dobre",
+    "Address": "Stefana Batorego 38",
+    "Phone": 514098912,
+    "Town": "Chorzów",
+    "Position": {
+      "x": "18.93812532219851",
+      "y": "50.2711418"
+    }
+  },
+  {
+    "Url": "https://facebook.com/KAIRO-KEBAB-102629328011900",
+    "Name": "Kairo Kebab",
+    "Address": "2003-05-03T22:00:00.000Z",
+    "Phone": 729911007,
+    "Town": "Chorzów"
+  },
+  {
+    "Url": "http://obiady-chorzow.pl",
+    "Name": "Firma Kateringowa Obiady jak u mamy",
+    "Address": "Wolności 83",
+    "Phone": 507130656,
+    "Town": "Chorzów",
+    "Position": {
+      "x": "18.94332849997577",
+      "y": "50.289667449999996"
+    }
+  },
+  {
+    "Url": "https://facebook.com/zajebistapizza/",
+    "Name": "Zajebista Pizza",
+    "Address": "Wolności 134",
+    "Phone": 600794257,
+    "Town": "Chorzów",
+    "Position": {
+      "x": "18.94029601721582",
+      "y": "50.2879963"
+    }
+  },
+  {
+    "Url": "http://www.catering-arts.pl/obiady",
+    "Name": "Catering Arts",
+    "Address": "Hajducka 84",
+    "Phone": 536066066,
+    "Town": "Chorzów",
+    "Position": {
+      "x": "18.9528814",
+      "y": "50.2831033"
+    }
+  },
+  {
+    "Url": "https://facebook.com/Restauracja.Dejavu/",
+    "Name": "Restauracja Deja Vu",
+    "Address": "Plac Jana Pawła II 15",
+    "Phone": 517907207,
+    "Town": "Ciechanów",
+    "Position": {
+      "x": "20.6200404",
+      "y": "52.8819719"
+    }
+  },
+  {
+    "Url": "http://www.daito.pl/",
+    "Name": "Daito Sushi",
+    "Address": "Będzińska 80",
+    "Phone": 506822059,
+    "Town": "Czeladź",
+    "Position": {
+      "x": "19.104305",
+      "y": "50.3191831"
+    }
+  },
+  {
+    "Url": "https://facebook.com/localnycatering",
+    "Name": "Localny Catering",
+    "Address": "Wyszyńskiego 3",
+    "Phone": 798970878,
+    "Town": "Dąbrowa Górnicza",
+    "Position": {
+      "x": "19.1900137",
+      "y": "50.3256605"
+    }
+  },
+  {
+    "Url": "http://radelko.pl",
+    "Name": "Pizzeria Radełko",
+    "Address": "Królowej Jadwigi 23",
+    "Phone": 731211198,
+    "Town": "Dąbrowa Górnicza",
+    "Position": {
+      "x": "19.1999563",
+      "y": "50.3240667"
+    }
+  },
+  {
+    "Url": "https://facebook.com/cukierniacieplak/",
+    "Name": "Cukiernia Cieplak SC",
+    "Address": "Warszawska 71",
+    "Phone": 608552349,
+    "Town": "Dąbrowa Górnicza",
+    "Position": {
+      "x": "19.275286093063134",
+      "y": "50.31078545"
+    }
+  },
+  {
+    "Url": "http://pizzadrawsko.pl/",
+    "Name": "Vendetta",
+    "Address": "Sikorskiego 111",
+    "Phone": 943636660,
+    "Town": "Drawsko Pomorskie",
+    "Position": {
+      "x": "15.8080552",
+      "y": "53.5305539"
+    }
+  },
+  {
+    "Url": "https://facebook.com/pizzanapoligda",
+    "Name": "Pizza Napoli",
+    "Address": "Generała Augusta Emila Fieldorfa 2",
+    "Phone": 513588090,
+    "Town": "Gdańsk",
+    "Position": {
+      "x": "18.61477994530106",
+      "y": "54.32784145"
+    }
+  },
+  {
+    "Url": "http://krolewska.com.pl",
+    "Name": "Pizzeria Królewska",
+    "Address": "Wały Jagiellońskie 8",
+    "Phone": 583015890,
+    "Town": "Gdańsk",
+    "Position": {
+      "x": "18.6468663",
+      "y": "54.3508381"
+    }
+  },
+  {
+    "Url": "https://facebook.com/pychamicha3miasto",
+    "Name": "Pycha Micha 3miasto",
+    "Address": "Opacka 33",
+    "Phone": 505749508,
+    "Town": "Gdańsk",
+    "Position": {
+      "x": "18.563362560373825",
+      "y": "54.41539935"
+    }
+  },
+  {
+    "Url": "http://www.cosnaruszt.pl",
+    "Name": "Pizza&amp;Grill coś na ruszt",
+    "Address": "Cieszyńskiego 38/20",
+    "Phone": 669616878,
+    "Town": "Gdańsk",
+    "Position": {
+      "x": "18.6162296",
+      "y": "54.333773"
+    }
+  },
+  {
+    "Url": "http://www.crazburg.eatbu.com",
+    "Name": "Crazburg",
+    "Address": "Traugutta 86",
+    "Phone": 511541052,
+    "Town": "Gdańsk",
+    "Position": {
+      "x": "18.6297609",
+      "y": "54.3691197"
+    }
+  },
+  {
+    "Url": "www.laothai.pl",
+    "Name": "Lao Thai",
+    "Address": "Targ Rybny 11",
+    "Phone": 797334000,
+    "Town": "Gdańsk",
+    "Position": {
+      "x": "18.6579396",
+      "y": "54.3526341"
+    }
+  },
+  {
+    "Url": "www.domsushi.pl",
+    "Name": "Dom Sushi",
+    "Address": "Targ Rybny 11",
+    "Phone": 513180450,
+    "Town": "Gdańsk",
+    "Position": {
+      "x": "18.6579396",
+      "y": "54.3526341"
+    }
+  },
+  {
+    "Url": "",
+    "Name": "Czarna Perła",
+    "Address": "Długie Pobrzeże",
+    "Phone": 519140201,
+    "Town": "Gdańsk",
+    "Position": {
+      "x": "18.65719239420263",
+      "y": "54.349903999999995"
+    }
+  },
+  {
+    "Url": "http://www.pierogarnie.com",
+    "Name": "Pierogarnia Stary Młyn",
+    "Address": "Św. Ducha 64",
+    "Phone": 587277114,
+    "Town": "Gdańsk",
+    "Position": {
+      "x": "18.6506615",
+      "y": "54.3509035"
+    }
+  },
+  {
+    "Url": "https://Facebook.com/vivalapizzagdynia",
+    "Name": "Viva la PIZZA!",
+    "Address": "Świętojańska 49",
+    "Phone": 583526633,
+    "Town": "Gdynia",
+    "Position": {
+      "x": "18.5410821",
+      "y": "54.5155921"
+    }
+  },
+  {
+    "Url": "https://facebook.com/ILovePizzaTrojmiasto/",
+    "Name": "I Love Pizza",
+    "Address": "Nauczycielska 2a",
+    "Phone": 737777404,
+    "Town": "Gdynia",
+    "Position": {
+      "x": "18.505705",
+      "y": "54.4997285"
+    }
+  },
+  {
+    "Url": "https://facebook.com/smartbistropl/",
+    "Name": "Smart Bistro",
+    "Address": "Hutnicza 8",
+    "Phone": 504440850,
+    "Town": "Gdynia",
+    "Position": {
+      "x": "18.4850167",
+      "y": "54.5425658"
+    }
+  },
+  {
+    "Url": "http://restauracjajedyna.pl",
+    "Name": "Restauracja JEDYNA",
+    "Address": "Narcyzowa 1/8",
+    "Phone": 509851636,
+    "Town": "Gdynia",
+    "Position": {
+      "x": "18.5189353",
+      "y": "54.499647"
+    }
+  },
+  {
+    "Url": "http://bistrokwadrans.pl",
+    "Name": "Bistro Kwadrans",
+    "Address": "Skwer Kościuszki 20",
+    "Phone": 607727307,
+    "Town": "Gdynia",
+    "Position": {
+      "x": "18.5437735",
+      "y": "54.5197212"
+    }
+  },
+  {
+    "Url": "http://www.poprostubistro.pl",
+    "Name": "#Poprostu Bistro",
+    "Address": "Żwirki i Wigury 12/U1",
+    "Phone": 788660070,
+    "Town": "Gdynia",
+    "Position": {
+      "x": "18.5392849",
+      "y": "54.5149592"
+    }
+  },
+  {
+    "Url": "https://facebook.com/michagliwice",
+    "Name": "Micha Gliwice",
+    "Address": "Barlickiego 15",
+    "Phone": 668004929,
+    "Town": "Gliwice",
+    "Position": {
+      "x": "18.6717906",
+      "y": "50.2982703"
+    }
+  },
+  {
+    "Url": "https://larustica.pl",
+    "Name": "Trattoria La Rustica",
+    "Address": "Daszyńskiego 540",
+    "Phone": 660454647,
+    "Town": "Gliwice",
+    "Position": {
+      "x": "18.5865771",
+      "y": "50.2796555"
+    }
+  },
+  {
+    "Url": "https://triocatering.pl",
+    "Name": "Trio Catering &amp; Bar",
+    "Address": "Zygmunta Starego 20",
+    "Phone": 323308310,
+    "Town": "Gliwice",
+    "Position": {
+      "x": "18.657425518065395",
+      "y": "50.29092165"
+    }
+  },
+  {
+    "Url": "http://www.korovaburger.pl",
+    "Name": "Korova Burger Bar",
+    "Address": "Kaczyniec 15",
+    "Phone": 739225289,
+    "Town": "Gliwice",
+    "Position": {
+      "x": "18.6630814",
+      "y": "50.2944327"
+    }
+  },
+  {
+    "Url": "http://restauracjawanilia.pl",
+    "Name": "Restauracja Wanilia",
+    "Address": "Korfantego 36 (róg Kościuszki)",
+    "Phone": 327330836,
+    "Town": "Gliwice"
+  },
+  {
+    "Url": "",
+    "Name": "Thai vege gluten free",
+    "Address": "Basztowa 5",
+    "Phone": 661431626,
+    "Town": "Gliwice",
+    "Position": {
+      "x": "18.667633019859665",
+      "y": "50.292979200000005"
+    }
+  },
+  {
+    "Url": "",
+    "Name": "Bistro Royal",
+    "Address": "Konstytucji 3. Maja 11",
+    "Phone": 536076806,
+    "Town": "Goleniów",
+    "Position": {
+      "x": "14.831110646571428",
+      "y": "53.56277"
+    }
+  },
+  {
+    "Url": "https://facebook.com/babelek.gorzow/",
+    "Name": "Bąbelek",
+    "Address": "Chrobrego 17",
+    "Phone": 508291768,
+    "Town": "Gorzów Wielkopolski",
+    "Position": {
+      "x": "15.2336993",
+      "y": "52.7365025"
+    }
+  },
+  {
+    "Url": "",
+    "Name": "Phu Bartolini",
+    "Address": "Kwiatkowskiego 11",
+    "Phone": "509939608/509939609/609567111",
+    "Town": "Gorzów Wielkopolski",
+    "Position": {
+      "x": "15.247356998320921",
+      "y": "52.7570989"
+    }
+  },
+  {
+    "Url": "https://facebook.com/doncorleonegrudziadz/",
+    "Name": "Don Corleone Grudziądz",
+    "Address": "Rynek 1",
+    "Phone": 726707070,
+    "Town": "Grudziądz",
+    "Position": {
+      "x": "18.7485264",
+      "y": "53.4926931"
+    }
+  },
+  {
+    "Url": "",
+    "Name": "Pizzernia DonCorleone",
+    "Address": "Sobieskiego 14",
+    "Phone": 504500239,
+    "Town": "Iława",
+    "Position": {
+      "x": "19.5648591",
+      "y": "53.5918583"
+    }
+  },
+  {
+    "Url": "https://facebook.com/KawiarniaFilmowaJarocin/",
+    "Name": "Spółdzielnia Socjalna Zmysły",
+    "Address": "Gołębia 1",
+    "Phone": 501676721,
+    "Town": "Jarocin",
+    "Position": {
+      "x": "17.500512344378457",
+      "y": "51.97300285"
+    }
+  },
+  {
+    "Url": "https://stodolajarocin.pl",
+    "Name": "Pizzeria Restauracja Stodoła",
+    "Address": "Popiełuszki 7",
+    "Phone": 605965566,
+    "Town": "Jarocin",
+    "Position": {
+      "x": "17.507803247288123",
+      "y": "51.95888835"
+    }
+  },
+  {
+    "Url": "http://uschabinskiej.pl",
+    "Name": "Restauracja u Schabińskiej",
+    "Address": "Floriańska 56",
+    "Phone": 797334665,
+    "Town": "Jasło",
+    "Position": {
+      "x": "21.477421912181825",
+      "y": "49.742331"
+    }
+  },
+  {
+    "Url": "http://www.bar-jelczanin.pl",
+    "Name": "Bar Jelczanin",
+    "Address": "Inzynierska 3",
+    "Phone": 511158457,
+    "Town": "Jelcz-Laskowice",
+    "Position": {
+      "x": "17.310654498884904",
+      "y": "51.02910575"
+    }
+  },
+  {
+    "Url": "http://www.caspar.pl",
+    "Name": "Restauracja Caspar",
+    "Address": "Plac Piastowski 28",
+    "Phone": 756455001,
+    "Town": "Jelenia Góra",
+    "Position": {
+      "x": "15.681819001130581",
+      "y": "50.8654667"
+    }
+  },
+  {
+    "Url": "http://swojakkg.pl",
+    "Name": "Swojak",
+    "Address": "Broniewskiego 18",
+    "Phone": 508063765,
+    "Town": "Kamienna Góra",
+    "Position": {
+      "x": "16.0296218",
+      "y": "50.7827702"
+    }
+  },
+  {
+    "Url": "",
+    "Name": "Restauracja Fantasmagoria",
+    "Address": "Gliwicka 51",
+    "Phone": "322530059/571808722",
+    "Town": "Katowice",
+    "Position": {
+      "x": "19.0064869",
+      "y": "50.2629027"
+    }
+  },
+  {
+    "Url": "http://katowice.zajebistapizza.com/",
+    "Name": "Zajebista Pizza",
+    "Address": "Józefowska 95",
+    "Phone": 790204622,
+    "Town": "Katowice",
+    "Position": {
+      "x": "19.0145322",
+      "y": "50.2832924"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/Petitkatowice/",
+    "Name": "Petit Manufaktura",
+    "Address": "Wojewódzka 21",
+    "Phone": 661472680,
+    "Town": "Katowice",
+    "Position": {
+      "x": "19.0256684",
+      "y": "50.2558807"
+    }
+  },
+  {
+    "Url": "http://kagamisushi.pl",
+    "Name": "Kagami Sushi",
+    "Address": "Gliwicka 44",
+    "Phone": 731821821,
+    "Town": "Katowice",
+    "Position": {
+      "x": "19.00596085050934",
+      "y": "50.262524"
+    }
+  },
+  {
+    "Url": "http://restauracja-stajer.pl",
+    "Name": "Restauracja Stajer",
+    "Address": "Panewnicka 90",
+    "Phone": 502990019,
+    "Town": "Katowice",
+    "Position": {
+      "x": "18.9603783",
+      "y": "50.2273138"
+    }
+  },
+  {
+    "Url": "http://www.catering-arts.pl/obiady",
+    "Name": "Catering Arts",
+    "Address": "tel. 536066066",
+    "Phone": "",
+    "Town": "Katowice"
+  },
+  {
+    "Url": "http://bierhalle.pl",
+    "Name": "Bierhalle",
+    "Address": "Chorzowska 107",
+    "Phone": 609677709,
+    "Town": "Katowice",
+    "Position": {
+      "x": "19.003866947211236",
+      "y": "50.27072305"
+    }
+  },
+  {
+    "Url": "https://facebook.com/Bistronarynku/",
+    "Name": "BISTRO na rynku",
+    "Address": "Rynek 11",
+    "Phone": 661481115,
+    "Town": "Kędzierzyn-Koźle",
+    "Position": {
+      "x": "18.14596281865179",
+      "y": "50.3335273"
+    }
+  },
+  {
+    "Url": "",
+    "Name": "Restauracja Zoni",
+    "Address": "Targowa 4",
+    "Phone": 511460746,
+    "Town": "Kędzierzyn-Koźle",
+    "Position": {
+      "x": "18.145583229866247",
+      "y": "50.3323127"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/M%C4%99ski-Fartuch-840823862941473/",
+    "Name": "Męski Fartuch",
+    "Address": "Staszica 6",
+    "Phone": 690009595,
+    "Town": "Kępno",
+    "Position": {
+      "x": "17.9848236",
+      "y": "51.2799004"
+    }
+  },
+  {
+    "Url": "https://facebok/mrsandwicz.pl",
+    "Name": "Mr. Sandwicz",
+    "Address": "Dobrzańskiego 29",
+    "Phone": 731778899,
+    "Town": "Kołobrzeg"
+  },
+  {
+    "Url": "http://jupidiet.pl/",
+    "Name": "Jupi Diet",
+    "Address": "Jana Pawła II 1",
+    "Phone": 604790478,
+    "Town": "Końskie"
+  },
+  {
+    "Url": "Piecownia",
+    "Name": "Piecownia",
+    "Address": "Dolna 1C",
+    "Phone": 604232922,
+    "Town": "Końskie",
+    "Position": {
+      "x": "20.4103368",
+      "y": "51.193618"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/2cv-Lunch-bar-103914501246078/",
+    "Name": "2cv Lauch Bar",
+    "Address": "Piastowska 1",
+    "Phone": 943480981,
+    "Town": "Koszalin",
+    "Position": {
+      "x": "16.1843514",
+      "y": "54.1934147"
+    }
+  },
+  {
+    "Url": "https://facebook.com/wesolegary",
+    "Name": "Wesołe Gary",
+    "Address": "Urbanowicza 10a",
+    "Phone": 502497380,
+    "Town": "Kraków",
+    "Position": {
+      "x": "20.0143939",
+      "y": "50.0862809"
+    }
+  },
+  {
+    "Url": "https://pl.tripadvisor.com/Restaurant_Review-g274772-d10872699-Reviews-Camino-Krakow_Lesser_Poland_Province_Southern_Poland.html",
+    "Name": "Camino",
+    "Address": "Stolarska 3",
+    "Phone": 533883006,
+    "Town": "Kraków",
+    "Position": {
+      "x": "19.9392542",
+      "y": "50.0605258"
+    }
+  },
+  {
+    "Url": "https://pizzaiprosecco.pl",
+    "Name": "Pizza i Prosecco",
+    "Address": "Feliksa Konecznego 4/3U",
+    "Phone": 796459383,
+    "Town": "Kraków",
+    "Position": {
+      "x": "19.9419166",
+      "y": "50.0842951"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/krakowskaspizarnia/",
+    "Name": "NOWA Krakowska Spiżarnia",
+    "Address": "Leona Petrazyckiego 27",
+    "Phone": 502262805,
+    "Town": "Kraków",
+    "Position": {
+      "x": "19.8923387",
+      "y": "49.9841407"
+    }
+  },
+  {
+    "Url": "https://facebook.com/pizzeriagusto",
+    "Name": "Pizzeria Gusto",
+    "Address": "Polonijna 3",
+    "Phone": 883905564,
+    "Town": "Kraków",
+    "Position": {
+      "x": "19.98890289733582",
+      "y": "50.0172991"
+    }
+  },
+  {
+    "Url": "https://facebook.com/curryupkrk",
+    "Name": "Curry up!",
+    "Address": "Krakowska 29",
+    "Phone": 730775073,
+    "Town": "Kraków",
+    "Position": {
+      "x": "19.9428537",
+      "y": "50.0491954"
+    }
+  },
+  {
+    "Url": "https://facebook.com/aquariuskrakow/",
+    "Name": "Restauracja Aquarius",
+    "Address": "Bulwar Czerwieński 81",
+    "Phone": 505102677,
+    "Town": "Kraków",
+    "Position": {
+      "x": "19.9289332",
+      "y": "50.0547655"
+    }
+  },
+  {
+    "Url": "https://facebook.com/NpizzaRajska/",
+    "Name": "N'Pizza",
+    "Address": "Rajska 3/2",
+    "Phone": 122628495,
+    "Town": "Kraków",
+    "Position": {
+      "x": "19.9277422",
+      "y": "50.0646471"
+    }
+  },
+  {
+    "Url": "https://yanasushi.eu",
+    "Name": "Yana Sushi",
+    "Address": "Lwowska 1/6",
+    "Phone": 123072143,
+    "Town": "Kraków",
+    "Position": {
+      "x": "19.9580718",
+      "y": "50.0442452"
+    }
+  },
+  {
+    "Url": "https://yanasushi.eu",
+    "Name": "Yana Sushi",
+    "Address": "Chmieleniec 2B/11",
+    "Phone": 123072272,
+    "Town": "Kraków",
+    "Position": {
+      "x": "19.898501",
+      "y": "50.0187763"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/aldentebistro/",
+    "Name": "Aldente Bistro",
+    "Address": "Spółdzielców 3",
+    "Phone": 126555595,
+    "Town": "Kraków",
+    "Position": {
+      "x": "19.9815103",
+      "y": "50.0185195"
+    }
+  },
+  {
+    "Url": "https://facebook.com/nobonespl/",
+    "Name": "No Bones Vegan Food",
+    "Address": "Bracka 15",
+    "Phone": 123877880,
+    "Town": "Kraków",
+    "Position": {
+      "x": "19.9361297",
+      "y": "50.0598338"
+    }
+  },
+  {
+    "Url": "http://www.foodology.pl",
+    "Name": "Foodology Panini Bar",
+    "Address": "plac Bohaterów Getta 16/I",
+    "Phone": 604159529,
+    "Town": "Kraków",
+    "Position": {
+      "x": "19.9548419",
+      "y": "50.0464073"
+    }
+  },
+  {
+    "Url": "http://www.nowohuckisloik.pl",
+    "Name": "Nowohucki Sloik",
+    "Address": "os. Niepodległości 3a/4c",
+    "Phone": 604566254,
+    "Town": "Kraków"
+  },
+  {
+    "Url": "http://pizza-gusto.pl",
+    "Name": "Pizzeria Gusto",
+    "Address": "os. Kombatantów 8a",
+    "Phone": 690008275,
+    "Town": "Kraków",
+    "Position": {
+      "x": "20.0120498",
+      "y": "50.0939948"
+    }
+  },
+  {
+    "Url": "",
+    "Name": "Bar Zosia Pikolo",
+    "Address": "Półłanki 33a",
+    "Phone": 511210842,
+    "Town": "Kraków",
+    "Position": {
+      "x": "20.0424925",
+      "y": "50.0381616"
+    }
+  },
+  {
+    "Url": "http://www.carlandbart.pl",
+    "Name": "Restauracja Carl &amp; Bart",
+    "Address": "Ks. Meiera 26",
+    "Phone": 791792095,
+    "Town": "Kraków",
+    "Position": {
+      "x": "19.9645917",
+      "y": "50.0978022"
+    }
+  },
+  {
+    "Url": "http://miodowypiecyk.pl",
+    "Name": "Miodowy Piecyk",
+    "Address": "Miodowa 51a. tel. 796376755",
+    "Phone": "",
+    "Town": "Kraków"
+  },
+  {
+    "Url": "http://www.chimera.com.pl",
+    "Name": "Chimera",
+    "Address": "św. Anny 3",
+    "Phone": 603603429,
+    "Town": "Kraków"
+  },
+  {
+    "Url": "fitfoodpoland.pl",
+    "Name": "FitFood",
+    "Address": "os. Piastów 21B",
+    "Phone": 530148494,
+    "Town": "Kraków",
+    "Position": {
+      "x": "20.0203676",
+      "y": "50.0970873"
+    }
+  },
+  {
+    "Url": "http://www.labaguette.pl",
+    "Name": "La Baguette",
+    "Address": "Beskidzka 27",
+    "Phone": 501718724,
+    "Town": "Kraków",
+    "Position": {
+      "x": "19.950490726901478",
+      "y": "50.017008149999995"
+    }
+  },
+  {
+    "Url": "http://www.vegab.pl",
+    "Name": "Vegab",
+    "Address": "Starowiślna 8",
+    "Phone": 889113373,
+    "Town": "Kraków",
+    "Position": {
+      "x": "19.9436225",
+      "y": "50.0583075"
+    }
+  },
+  {
+    "Url": "http://www.yapitosushi.pl",
+    "Name": "Yapito Sushi",
+    "Address": "Bolesława Orlińskiego 3",
+    "Phone": 731301003,
+    "Town": "Kraków",
+    "Position": {
+      "x": "20.001387",
+      "y": "50.0814494"
+    }
+  },
+  {
+    "Url": "http://www.pocolocokrakow.pl",
+    "Name": "Poco Loco",
+    "Address": "Czysta 9",
+    "Phone": 690800805,
+    "Town": "Kraków",
+    "Position": {
+      "x": "19.9264845",
+      "y": "50.0639522"
+    }
+  },
+  {
+    "Url": "http://trattoriaulisa.pl",
+    "Name": "Trattoria U Lisa",
+    "Address": "Borkowska 25/6",
+    "Phone": 690242222,
+    "Town": "Kraków",
+    "Position": {
+      "x": "19.905184",
+      "y": "50.0037879"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/irishtorridon/",
+    "Name": "TORRIDON Restauracja-Pizzeria",
+    "Address": "Krakowska 21",
+    "Phone": 134324110,
+    "Town": "Krosno",
+    "Position": {
+      "x": "21.751988818538425",
+      "y": "49.698086450000005"
+    }
+  },
+  {
+    "Url": "https://facebook.com/RestauracjaRondoKutno/",
+    "Name": "Restauracja Rondo",
+    "Address": "Mickiewicza 3",
+    "Phone": 605864778,
+    "Town": "Kutno",
+    "Position": {
+      "x": "19.36726564493764",
+      "y": "52.228776499999995"
+    }
+  },
+  {
+    "Url": "https://facebook.com/kawiarniarestauracjanadruda/",
+    "Name": "Nad Rudą",
+    "Address": "Klasztorna 9",
+    "Phone": 510152234,
+    "Town": "Kuźnia Raciborska",
+    "Position": {
+      "x": "18.315627151555162",
+      "y": "50.2005744"
+    }
+  },
+  {
+    "Url": "http://CateringLegnica.pl",
+    "Name": "Firma Cateringowa A.M. Skibinscy",
+    "Address": "Spłoneczna 3 Kunice",
+    "Phone": 516787397,
+    "Town": "Legnica"
+  },
+  {
+    "Url": "",
+    "Name": "Barbik",
+    "Address": "Alei Rzeczpospolitej 51",
+    "Phone": 535669561,
+    "Town": "Legnica"
+  },
+  {
+    "Url": "https://www.facebook.com/bistronowamelodia",
+    "Name": "Bistro Nowa Melodia",
+    "Address": "Przyjaźni 38",
+    "Phone": 504787305,
+    "Town": "Lublin",
+    "Position": {
+      "x": "22.5905413",
+      "y": "51.2434454"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/KebabSkarpa/",
+    "Name": "Kebab Skarpa",
+    "Address": "Sympatyczna 5A",
+    "Phone": 510566990,
+    "Town": "Lublin",
+    "Position": {
+      "x": "22.5269371",
+      "y": "51.2285093"
+    }
+  },
+  {
+    "Url": "https://Facebook.com/kebab.alibabalancut",
+    "Name": "Alibaba Kebab",
+    "Address": "Piłsudskiego 23",
+    "Phone": 884654884,
+    "Town": "Łańcut",
+    "Position": {
+      "x": "22.22566408973609",
+      "y": "50.064777449999994"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/ciagoty/",
+    "Name": "Ciągoty i Tęsknoty",
+    "Address": "Wojska Polskiego 144a",
+    "Phone": 695991883,
+    "Town": "Łódź",
+    "Position": {
+      "x": "19.4818743",
+      "y": "51.7901497"
+    }
+  },
+  {
+    "Url": "",
+    "Name": "Restauracja Con Ga Moi",
+    "Address": "Pomorska 118",
+    "Phone": 602249915,
+    "Town": "Łódź",
+    "Position": {
+      "x": "19.4869985",
+      "y": "51.7787084"
+    }
+  },
+  {
+    "Url": "",
+    "Name": "AGK Krzysztof Antosiak",
+    "Address": "Kosynierów Gdyńskich 61",
+    "Phone": 501116936,
+    "Town": "Łódź",
+    "Position": {
+      "x": "19.47068233292164",
+      "y": "51.7179744"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/niebostan/",
+    "Name": "Niebostan",
+    "Address": "Piotrkowska 17/33U",
+    "Phone": 602598067,
+    "Town": "Łódź"
+  },
+  {
+    "Url": "http://www.pomodoropizza.pl",
+    "Name": "Pomodoro",
+    "Address": "Rewolucji 1905 roku 4",
+    "Phone": 531912212,
+    "Town": "Łódź"
+  },
+  {
+    "Url": "https://saffron.com.pl/obiady-domowe/menu-tygodniowe/",
+    "Name": "Restauracja Saffron",
+    "Address": "Obywatelska 102/104",
+    "Phone": 668557997,
+    "Town": "Łódź",
+    "Position": {
+      "x": "19.4326536",
+      "y": "51.7364217"
+    }
+  },
+  {
+    "Url": "",
+    "Name": "Restauracja Pierogarnia \"Palce Lizać\"",
+    "Address": "Milionowa 55",
+    "Phone": 512119073,
+    "Town": "Łódź",
+    "Position": {
+      "x": "19.487402",
+      "y": "51.7513439"
+    }
+  },
+  {
+    "Url": "https://www.facebook.pl/obiadyprzystruga",
+    "Name": "Domowe Przysmaki",
+    "Address": "Struga 24",
+    "Phone": 502315135,
+    "Town": "Łódź",
+    "Position": {
+      "x": "19.7559134",
+      "y": "50.9390036"
+    }
+  },
+  {
+    "Url": "http://www.touchofindia.pl",
+    "Name": "Sneha Restauracja Indyjska",
+    "Address": "Zamenhofa 3a",
+    "Phone": 572375450,
+    "Town": "Łódź",
+    "Position": {
+      "x": "19.5571976",
+      "y": "51.9123428"
+    }
+  },
+  {
+    "Url": "http://www.bierhalle.pl",
+    "Name": "Bierhalle Manufaktura",
+    "Address": "Drewnowska 58 lok rm 18",
+    "Phone": 609677740,
+    "Town": "Łódź"
+  },
+  {
+    "Url": "http://www.bierhalle.pl",
+    "Name": "Esplanada by Bierhalle",
+    "Address": "Piotrowska 100",
+    "Phone": 507663913,
+    "Town": "Łódź"
+  },
+  {
+    "Url": "https://facebook.com/MielecRocknRoll/",
+    "Name": "Rock&amp;Roll Cafe&amp;Pizza",
+    "Address": "P. Skargi 11A",
+    "Phone": 175832993,
+    "Town": "Mielec"
+  },
+  {
+    "Url": "http://fratelli.pl",
+    "Name": "Fratelli",
+    "Address": "Staffa 4a",
+    "Phone": 602153074,
+    "Town": "Mielec",
+    "Position": {
+      "x": "21.43707",
+      "y": "50.29515"
+    }
+  },
+  {
+    "Url": "http://quebabfactory.eu",
+    "Name": "Quebab Factory",
+    "Address": "Prusa 18",
+    "Phone": 731370330,
+    "Town": "Mikołów",
+    "Position": {
+      "x": "18.9011274",
+      "y": "50.1719539"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/aksamitagata/",
+    "Name": "Dieta Cud",
+    "Address": "Piłsudskiego 4",
+    "Phone": 502769916,
+    "Town": "Mszana Dolna",
+    "Position": {
+      "x": "20.0818785",
+      "y": "49.6750232"
+    }
+  },
+  {
+    "Url": "www.galicjanowysacz.pl",
+    "Name": "Galicja",
+    "Address": "Rynek 7",
+    "Phone": 530789199,
+    "Town": "Nowy Sącz",
+    "Position": {
+      "x": "20.690954",
+      "y": "49.6243276"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/Zielone-112-1369521283164857/",
+    "Name": "Zielone 112",
+    "Address": "Wyczółkowskiego 4a",
+    "Phone": 509945844,
+    "Town": "Nowy Sącz",
+    "Position": {
+      "x": "20.7342541",
+      "y": "49.5865572"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/localsff/",
+    "Name": "Local Slow Food Fast",
+    "Address": "Fredry 1a",
+    "Phone": 730238899,
+    "Town": "Nowa Sól",
+    "Position": {
+      "x": "15.703265724022835",
+      "y": "51.80436075"
+    }
+  },
+  {
+    "Url": "http://www.sushi-House.pl",
+    "Name": "Sushi House",
+    "Address": "Sikorskiego 51",
+    "Phone": 506707321,
+    "Town": "Nowy Targ"
+  },
+  {
+    "Url": "https://chmieliwiklina.zobaczsmak.pl",
+    "Name": "Chmiel i Wiklina Catering",
+    "Address": "Powstańców Wlkp 1a",
+    "Phone": 668033711,
+    "Town": "Nowy Tomyśl"
+  },
+  {
+    "Url": "https://facebook.com/Bistro-KURT",
+    "Name": "Bistro Kurt Nysa",
+    "Address": "M.J. Piłsudskiego 11A/2",
+    "Phone": 668027128,
+    "Town": "Nysa"
+  },
+  {
+    "Url": "https://www.FitApetit.pl",
+    "Name": "Catering Dietetyczny FitApetit",
+    "Address": "tel. 514476647",
+    "Phone": "",
+    "Town": "Oborniki Wielkopolskie"
+  },
+  {
+    "Url": "https://facebook.com/ARQBA11",
+    "Name": "Catering Arqba Olkusz",
+    "Address": "Kosynierów 10",
+    "Phone": 663615662,
+    "Town": "Olkusz",
+    "Position": {
+      "x": "19.58613957106022",
+      "y": "50.2767565"
+    }
+  },
+  {
+    "Url": "https://facebook.com/Tandoorolsztyn/",
+    "Name": "Tandoor Kuchnia Indyjska",
+    "Address": "Grunwaldzka 33",
+    "Phone": 519732620,
+    "Town": "Olsztyn",
+    "Position": {
+      "x": "20.46857590545416",
+      "y": "53.7761652"
+    }
+  },
+  {
+    "Url": "http://www.JoeGonzalez.eu",
+    "Name": "Joe Gonzalez",
+    "Address": "Kołłątaja 5",
+    "Phone": 504297647,
+    "Town": "Olsztyn",
+    "Position": {
+      "x": "20.475132",
+      "y": "53.7757184"
+    }
+  },
+  {
+    "Url": "http://ujacka.olsztyn.pl",
+    "Name": "Zatoka Smaku",
+    "Address": "Wodna 1C",
+    "Phone": 696100556,
+    "Town": "Olsztyn",
+    "Position": {
+      "x": "20.43459671658416",
+      "y": "53.791346700000005"
+    }
+  },
+  {
+    "Url": "http://brykajacegarnki.eatbu.com",
+    "Name": "Brykające Garnki",
+    "Address": "Opolska 4",
+    "Phone": 518613469,
+    "Town": "Opole",
+    "Position": {
+      "x": "17.856277810688372",
+      "y": "50.7255674"
+    }
+  },
+  {
+    "Url": "http://www.sanekobar.opole.pl",
+    "Name": "San Ekobar",
+    "Address": "Kościuszki 31",
+    "Phone": 692206222,
+    "Town": "Opole",
+    "Position": {
+      "x": "17.9315159",
+      "y": "50.666512"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/bistrokasteloswiecim",
+    "Name": "Bistro Kastel",
+    "Address": "Żwirki i Wigury 31",
+    "Phone": 503565260,
+    "Town": "Oświęcim",
+    "Position": {
+      "x": "19.231569777461818",
+      "y": "50.039413100000004"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/prestopabianice/",
+    "Name": "Pizzeria Trattoria Presto",
+    "Address": "Bugaj 59",
+    "Phone": 712252654,
+    "Town": "Pabianice",
+    "Position": {
+      "x": "19.3658299",
+      "y": "51.6566429"
+    }
+  },
+  {
+    "Url": "https://facebook.com/KinderKatering",
+    "Name": "Kinder Katering",
+    "Address": "Sienkiewicza 13",
+    "Phone": 698590059,
+    "Town": "Piaseczno",
+    "Position": {
+      "x": "21.02454248293919",
+      "y": "52.06846045"
+    }
+  },
+  {
+    "Url": "http://osiedlowaplock.pl",
+    "Name": "Restauracja Osiedlowa",
+    "Address": "Miodowa 8/23",
+    "Phone": 571903311,
+    "Town": "Płock",
+    "Position": {
+      "x": "19.6756483",
+      "y": "52.5561595"
+    }
+  },
+  {
+    "Url": "http://oregano-police.pl/",
+    "Name": "Pizzeria Oregano",
+    "Address": "Bankowa 11cde/7",
+    "Phone": 918523128,
+    "Town": "Police"
+  },
+  {
+    "Url": "http://pizzataxi.pl",
+    "Name": "Pizza Taxi",
+    "Address": "Na Miasteczku 12",
+    "Phone": 616704000,
+    "Town": "Poznań",
+    "Position": {
+      "x": "16.9494053",
+      "y": "52.3973748"
+    }
+  },
+  {
+    "Url": "https://facebook.com/bulwaRrestauracja",
+    "Name": "Bulwar",
+    "Address": "Stary Rynek 37",
+    "Phone": 533181171,
+    "Town": "Poznań",
+    "Position": {
+      "x": "16.9349082",
+      "y": "52.4087036"
+    }
+  },
+  {
+    "Url": "http://pizzeriativoli.pl",
+    "Name": "Pizzeria Tivoli.pl",
+    "Address": "Wroniecka 13",
+    "Phone": 502606939,
+    "Town": "Poznań",
+    "Position": {
+      "x": "16.9344006",
+      "y": "52.4105132"
+    }
+  },
+  {
+    "Url": "http://www.pierogarnie.com",
+    "Name": "Pierogarnia Stary Młyn",
+    "Address": "Zamkowa 7",
+    "Phone": 611015000,
+    "Town": "Poznań",
+    "Position": {
+      "x": "16.93213",
+      "y": "52.4089936"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/LaSpezia.Radom/",
+    "Name": "La Spezia",
+    "Address": "Sandomierska 1",
+    "Phone": 691952722,
+    "Town": "Radom",
+    "Position": {
+      "x": "21.1580616",
+      "y": "51.3809039"
+    }
+  },
+  {
+    "Url": "http://www.lubudububar.pl",
+    "Name": "Łubu Dubu",
+    "Address": "Poniatowskiego 6 lok. 3/4",
+    "Phone": 883999030,
+    "Town": "Radom"
+  },
+  {
+    "Url": "",
+    "Name": "TuLisMaNore Cafe",
+    "Address": "Wojska Polskiego 29",
+    "Phone": 511418018,
+    "Town": "Ruda Śląska",
+    "Position": {
+      "x": "18.8737689",
+      "y": "50.2851603"
+    }
+  },
+  {
+    "Url": "https://facebook.com/trattoriarudaslaska/",
+    "Name": "Trattoria Ventiquattro",
+    "Address": "Owocowa 24a",
+    "Phone": 501473258,
+    "Town": "Ruda Śląska",
+    "Position": {
+      "x": "18.889747435399507",
+      "y": "50.320649"
+    }
+  },
+  {
+    "Url": "https://facebook.com/barprzysmakhalemba/",
+    "Name": "Bar \"Przysmak\"",
+    "Address": "1-go Maja 31",
+    "Phone": 322434745,
+    "Town": "Ruda Śląska"
+  },
+  {
+    "Url": "http://www.zajebistapizza.com/",
+    "Name": "Zajebista Pizza",
+    "Address": "tel. 600794273",
+    "Phone": "",
+    "Town": "Ruda Śląska"
+  },
+  {
+    "Url": "https://m.facebook.com/SantoriniRybnik/",
+    "Name": "Santorini",
+    "Address": "Rynek 8",
+    "Phone": 324316175,
+    "Town": "Rybnik",
+    "Position": {
+      "x": "18.5425289",
+      "y": "50.0955159"
+    }
+  },
+  {
+    "Url": "http://www.patiosushi.pl",
+    "Name": "Patio Sushi",
+    "Address": "Powstańców Śląskich 6",
+    "Phone": 692641444,
+    "Town": "Rybnik",
+    "Position": {
+      "x": "18.5455497",
+      "y": "50.0975788"
+    }
+  },
+  {
+    "Url": "https://facebook.com/BIOrself-2072211339510382/",
+    "Name": "BIOrself Catering Dietetyczny",
+    "Address": "Karola Wojtyły 6",
+    "Phone": 515573685,
+    "Town": "Ryki",
+    "Position": {
+      "x": "21.9293345",
+      "y": "51.62519105"
+    }
+  },
+  {
+    "Url": "https://facebook.com/Lychee.Bar/",
+    "Name": "Lychee Cocktails&amp;Restaurant",
+    "Address": "Kopisto 8a",
+    "Phone": 530867687,
+    "Town": "Rzeszów",
+    "Position": {
+      "x": "22.009373293332494",
+      "y": "50.0301268"
+    }
+  },
+  {
+    "Url": "https://https//www.facebook.com/vendettafoodfactory",
+    "Name": "Pizzeria Vendetta",
+    "Address": "Mickiewicza 21",
+    "Phone": 575841270,
+    "Town": "Rzeszów",
+    "Position": {
+      "x": "22.0077539",
+      "y": "50.0377298"
+    }
+  },
+  {
+    "Url": "https://facebook.com/PizzeriaBostonRzeszow/",
+    "Name": "Pizza&amp;Burger Boston",
+    "Address": "Gromskiego 8",
+    "Phone": 604740860,
+    "Town": "Rzeszów",
+    "Position": {
+      "x": "22.00809814422978",
+      "y": "50.064274850000004"
+    }
+  },
+  {
+    "Url": "http://Parkova51.pl",
+    "Name": "Restauracja Parkova51",
+    "Address": "Paderewskiego 51",
+    "Phone": 535208000,
+    "Town": "Rzeszów",
+    "Position": {
+      "x": "22.0222748",
+      "y": "50.0231816"
+    }
+  },
+  {
+    "Url": "https://facebook.com/cukierniaslodkiesiostry/",
+    "Name": "Cukiernia Słodkie Siostry",
+    "Address": "Ks. Jałowego 3",
+    "Phone": 664646186,
+    "Town": "Rzeszów",
+    "Position": {
+      "x": "21.995332",
+      "y": "50.0403063"
+    }
+  },
+  {
+    "Url": "http://zciekawosci.pl/",
+    "Name": "Z Ciekawości",
+    "Address": "Jana III Sobieskiego 93/94",
+    "Phone": 505440017,
+    "Town": "Rzeszów",
+    "Position": {
+      "x": "22.0100936",
+      "y": "50.0390801"
+    }
+  },
+  {
+    "Url": "http://Republikapolsko-francuska.pl",
+    "Name": "Republika polsko-francuska",
+    "Address": "Na Skały 1a",
+    "Phone": 511309809,
+    "Town": "Rzeszów",
+    "Position": {
+      "x": "22.0237446",
+      "y": "50.0390151"
+    }
+  },
+  {
+    "Url": "http://www.toscana.rzeszow.pl",
+    "Name": "Toscana",
+    "Address": "Dukierska 4/3L",
+    "Phone": 177402345,
+    "Town": "Rzeszów"
+  },
+  {
+    "Url": "http://www.hokusrzeszow.pl",
+    "Name": "Hokus Pokus",
+    "Address": "2003-05-12T22:00:00.000Z",
+    "Phone": 530861274,
+    "Town": "Rzeszów"
+  },
+  {
+    "Url": "http://www.fabrykaobiadow.com.pl",
+    "Name": "Fabryka Obiadów",
+    "Address": "Hanasiewicza 10",
+    "Phone": 502657790,
+    "Town": "Rzeszów",
+    "Position": {
+      "x": "21.982457106869987",
+      "y": "50.028587349999995"
+    }
+  },
+  {
+    "Url": "http://www.warsztatpizza.pl",
+    "Name": "Warsztat Pizza",
+    "Address": "Wyspiańskiego 18D",
+    "Phone": 578516940,
+    "Town": "Rzeszów",
+    "Position": {
+      "x": "21.984632373925507",
+      "y": "50.038365"
+    }
+  },
+  {
+    "Url": "http://www.zielonygosciniec.pl",
+    "Name": "Zielony Gościniec",
+    "Address": "Stara 40",
+    "Phone": 510497218,
+    "Town": "Sarnów",
+    "Position": {
+      "x": "19.173895",
+      "y": "50.3832261"
+    }
+  },
+  {
+    "Url": "",
+    "Name": "Smaki Azji",
+    "Address": "Śląska 39",
+    "Phone": 502083105,
+    "Town": "Siemianowice Śląskie",
+    "Position": {
+      "x": "19.0260053",
+      "y": "50.3057884"
+    }
+  },
+  {
+    "Url": "http://www.zajebistapizza.com/",
+    "Name": "Zajebista Pizza",
+    "Address": "tel. 790204899",
+    "Phone": "",
+    "Town": "Siemianowice Śląskie"
+  },
+  {
+    "Url": "https://www.facebook.com/BigZapBar2015/",
+    "Name": "Kery Burger",
+    "Address": "Michałkowicka 28",
+    "Phone": 607530102,
+    "Town": "Siemianowice Śląskie",
+    "Position": {
+      "x": "19.024034300887628",
+      "y": "50.30760655"
+    }
+  },
+  {
+    "Url": "https://facebook.com/rejtanowka",
+    "Name": "Rejtanówka Restobar",
+    "Address": "Kościuszki 13",
+    "Phone": 572578877,
+    "Town": "Słomniki",
+    "Position": {
+      "x": "20.082094854560346",
+      "y": "50.241919949999996"
+    }
+  },
+  {
+    "Url": "http://www.asado.pl",
+    "Name": "Przystanek Smaku",
+    "Address": "Kołłątaja 15",
+    "Phone": 574973229,
+    "Town": "Słupsk",
+    "Position": {
+      "x": "17.0183683",
+      "y": "54.4677668"
+    }
+  },
+  {
+    "Url": "",
+    "Name": "Bistro AM",
+    "Address": "Haffnera 6",
+    "Phone": 507094278,
+    "Town": "Sopot",
+    "Position": {
+      "x": "18.5661632",
+      "y": "54.444747"
+    }
+  },
+  {
+    "Url": "",
+    "Name": "Dojo Sushi Bar",
+    "Address": "Grota Roweckiego 203",
+    "Phone": 514838777,
+    "Town": "Sosnowiec",
+    "Position": {
+      "x": "19.1216856",
+      "y": "50.2870816"
+    }
+  },
+  {
+    "Url": "http://Gurinsushi.pl",
+    "Name": "Gurin Sushi",
+    "Address": "Hubala Dobrzańskiego 70",
+    "Phone": 575277300,
+    "Town": "Sosnowiec",
+    "Position": {
+      "x": "19.21688764891886",
+      "y": "50.2727045"
+    }
+  },
+  {
+    "Url": "http://radelko.pl",
+    "Name": "Pizzeria Radełko",
+    "Address": "Dobrzańskiego 29",
+    "Phone": 731299199,
+    "Town": "Sosnowiec",
+    "Position": {
+      "x": "19.178613758100596",
+      "y": "50.27867135"
+    }
+  },
+  {
+    "Url": "Starogard Gdański",
+    "Name": "",
+    "Address": "",
+    "Phone": "",
+    "Town": "Sosnowiec",
+    "Position": {
+      "x": "19.1342944",
+      "y": "50.2780834"
+    }
+  },
+  {
+    "Url": "https://facebook.com/barmleczny.junior/",
+    "Name": "Bar Mleczny Junior",
+    "Address": "Rynek 32",
+    "Phone": 585622753,
+    "Town": "Sosnowiec",
+    "Position": {
+      "x": "19.1486534",
+      "y": "50.2416096"
+    }
+  },
+  {
+    "Url": "",
+    "Name": "Bistro Ale Żarcie",
+    "Address": "Ks. Kellera 7",
+    "Phone": 607213503,
+    "Town": "Sosnowiec"
+  },
+  {
+    "Url": "",
+    "Name": "Bar Fantazja",
+    "Address": "Dzierżoniowska 16d/1",
+    "Phone": 696612154,
+    "Town": "Strzelin",
+    "Position": {
+      "x": "17.058838",
+      "y": "50.7824696"
+    }
+  },
+  {
+    "Url": "http://fcateringpodlaski.pl",
+    "Name": "Catering Podlaski",
+    "Address": "Mickiewicza 8",
+    "Phone": 512471247,
+    "Town": "Suwałki",
+    "Position": {
+      "x": "22.924235756549454",
+      "y": "54.09904455"
+    }
+  },
+  {
+    "Url": "https://facebook.com/restauracja.RAMZES/",
+    "Name": "Restauracja RAMZES",
+    "Address": "Dworcowa 2",
+    "Phone": 322456493,
+    "Town": "Świętochłowice",
+    "Position": {
+      "x": "18.9162257",
+      "y": "50.2903936"
+    }
+  },
+  {
+    "Url": "http://pizzeria-vendetta.eu",
+    "Name": "Pizzeria Vendetta",
+    "Address": "Krasickiego 3",
+    "Phone": 323070601,
+    "Town": "Świętochłowice",
+    "Position": {
+      "x": "18.9168214",
+      "y": "50.2984328"
+    }
+  },
+  {
+    "Url": "http://www.zajebistapizza.com/",
+    "Name": "Zajebista Pizza",
+    "Address": "tel. 600794257",
+    "Phone": "",
+    "Town": "Świętochłowice"
+  },
+  {
+    "Url": "https://www.alanya.net.pl",
+    "Name": "Restauracja i Catering Alanya Szamotuły",
+    "Address": "Sportowa 12",
+    "Phone": 669728583,
+    "Town": "Szamotuły",
+    "Position": {
+      "x": "16.598110096066613",
+      "y": "52.601020399999996"
+    }
+  },
+  {
+    "Url": "http://barlenka.szczecin.pl",
+    "Name": "Bar Lenka",
+    "Address": "Krasińskiego 3",
+    "Phone": 514422878,
+    "Town": "Szczecin",
+    "Position": {
+      "x": "14.5447615",
+      "y": "53.4450628"
+    }
+  },
+  {
+    "Url": "https://pl-pl.facebook.com/BerlinDonerKebap/",
+    "Name": "Berlin Doner Kebap",
+    "Address": "Bohaterów Warszawy 40",
+    "Phone": 510062506,
+    "Town": "Szczecin",
+    "Position": {
+      "x": "14.5326677",
+      "y": "53.4350804"
+    }
+  },
+  {
+    "Url": "http://www.jedziecatering.pl",
+    "Name": "Jedziecatering.pl",
+    "Address": "Pokoju 48",
+    "Phone": 736774415,
+    "Town": "Szczecin",
+    "Position": {
+      "x": "14.5881736",
+      "y": "53.4766363"
+    }
+  },
+  {
+    "Url": "",
+    "Name": "Jadalnia Kamila Kulasek",
+    "Address": "Piłsudskiego 22a",
+    "Phone": 694792196,
+    "Town": "Świebodzin",
+    "Position": {
+      "x": "15.5377822",
+      "y": "52.2476667"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/restauracjasherlock",
+    "Name": "Restauracja Sherlock",
+    "Address": "Rynek 7",
+    "Phone": 322552525,
+    "Town": "Tarnowskie Góry",
+    "Position": {
+      "x": "18.8563193",
+      "y": "50.4440267"
+    }
+  },
+  {
+    "Url": "http://www.hotelfilmar.pl",
+    "Name": "Filmar",
+    "Address": "Grudziądzka 39/43",
+    "Phone": 566694800,
+    "Town": "Toruń",
+    "Position": {
+      "x": "18.6165627",
+      "y": "53.0477616"
+    }
+  },
+  {
+    "Url": "www.domsushi.pl",
+    "Name": "Dom Sushi",
+    "Address": "Franciszkańska 5",
+    "Phone": 509646146,
+    "Town": "Toruń",
+    "Position": {
+      "x": "18.603412180779628",
+      "y": "53.011558699999995"
+    }
+  },
+  {
+    "Url": "http://www.pierogarnie.com",
+    "Name": "Pierogarnia Stary Młyn",
+    "Address": "Most Pauliński 2-10",
+    "Phone": 566211046,
+    "Town": "Toruń",
+    "Position": {
+      "x": "18.6059932",
+      "y": "53.0117062"
+    }
+  },
+  {
+    "Url": "",
+    "Name": "Kawiarnia Natura Słodyczy",
+    "Address": "Szosa Chełmińska 138",
+    "Phone": 605300185,
+    "Town": "Toruń",
+    "Position": {
+      "x": "18.5915452",
+      "y": "53.0273553"
+    }
+  },
+  {
+    "Url": "",
+    "Name": "Dworek Wymysłowo",
+    "Address": "Wymysłowo 1",
+    "Phone": 793678900,
+    "Town": "Tuchola",
+    "Position": {
+      "x": "17.9158597",
+      "y": "53.6067301"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/restauracjakaya",
+    "Name": "Restauracja Kaya",
+    "Address": "Jana Pawła II 10",
+    "Phone": 515801881,
+    "Town": "Tychy"
+  },
+  {
+    "Url": "https://facebook.com/SumoSushiRestaurant/",
+    "Name": "Sumo Sushi",
+    "Address": "Zatorska 2",
+    "Phone": 533316743,
+    "Town": "Wadowice",
+    "Position": {
+      "x": "19.492205",
+      "y": "49.8837607"
+    }
+  },
+  {
+    "Url": "",
+    "Name": "Pizzeria Barman",
+    "Address": "Piłsudskiego 21",
+    "Phone": 536473475,
+    "Town": "Wałbrzych",
+    "Position": {
+      "x": "16.288807446104137",
+      "y": "50.77047245"
+    }
+  },
+  {
+    "Url": "http://restauracja-mlyn.pl/",
+    "Name": "Restauracja Stary Młyn",
+    "Address": "1940-04-30T23:00:00.000Z",
+    "Phone": 500688123,
+    "Town": "Wąbrzeźno"
+  },
+  {
+    "Url": "https://www.facebook.com/fenixwielen",
+    "Name": "Fenix",
+    "Address": "Plac Powstania Wlkp. 5",
+    "Phone": 513835556,
+    "Town": "Wieleń"
+  },
+  {
+    "Url": "https://facebook.com/restauracjawiejskachata",
+    "Name": "Restauracja Wiejska Chata",
+    "Address": "Rynek 17",
+    "Phone": 324560658,
+    "Town": "Wodzisław Śląski",
+    "Position": {
+      "x": "18.462234375587826",
+      "y": "50.0028947"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/trattoriawloskieklimaty/",
+    "Name": "Trattoria Włoskie Klimaty",
+    "Address": "Arendarska 2",
+    "Phone": 503035300,
+    "Town": "Wodzisław Śląski",
+    "Position": {
+      "x": "18.4626636",
+      "y": "50.0009373"
+    }
+  },
+  {
+    "Url": "http://restauracjakamaro.pl",
+    "Name": "Restauracja Kamaro",
+    "Address": "Os. Przyjaźni 31b",
+    "Phone": 667911148,
+    "Town": "Wodzisław Śląski",
+    "Position": {
+      "x": "18.4727247",
+      "y": "50.0131091"
+    }
+  },
+  {
+    "Url": "http://www.pilsnerpub.pl/",
+    "Name": "Restauracja Pilsner Pub",
+    "Address": "Rynek 8",
+    "Phone": 790521747,
+    "Town": "Wodzisław Śląski",
+    "Position": {
+      "x": "18.462975",
+      "y": "50.0020955"
+    }
+  },
+  {
+    "Url": "https://facebook.com/perpanplacek/",
+    "Name": "Per Pan Placek",
+    "Address": "Stabłowicka 152",
+    "Phone": 727272760,
+    "Town": "Wrocław",
+    "Position": {
+      "x": "16.9029871",
+      "y": "51.1720967"
+    }
+  },
+  {
+    "Url": "http://esencja-sushi.pl",
+    "Name": "Esencja Sushi&amp;Orient",
+    "Address": "Średzka 21",
+    "Phone": 733099733,
+    "Town": "Wrocław",
+    "Position": {
+      "x": "16.8695934",
+      "y": "51.1454659"
+    }
+  },
+  {
+    "Url": "http://projektplacek.pl",
+    "Name": "Projekt Pacek",
+    "Address": "Nowodworska 39/1A",
+    "Phone": 791119999,
+    "Town": "Wrocław",
+    "Position": {
+      "x": "16.9651961",
+      "y": "51.1142192"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/pages/edit/info/378812596069463?_rdr",
+    "Name": "Bistro Syta Micha",
+    "Address": "Główna 146b Stabłowice",
+    "Phone": 504134253,
+    "Town": "Wrocław",
+    "Position": {
+      "x": "16.8920193",
+      "y": "51.1661153"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/soupcultureplwroclaw/",
+    "Name": "Soup Culture</a> Wrocław",
+    "Address": "Świdnicka 43",
+    "Phone": 796722958,
+    "Town": "Wrocław",
+    "Position": {
+      "x": "17.0293662",
+      "y": "51.1021831"
+    }
+  },
+  {
+    "Url": "http://www.yemsetu.pl",
+    "Name": "Yemsetu",
+    "Address": "plac Piłsudskiego 5",
+    "Phone": 667222006,
+    "Town": "Wrocław"
+  },
+  {
+    "Url": "http://www.yemsetu.pl",
+    "Name": "Yemse2",
+    "Address": "Życzliwa 11a",
+    "Phone": 725998880,
+    "Town": "Wrocław",
+    "Position": {
+      "x": "16.9877541",
+      "y": "51.067566"
+    }
+  },
+  {
+    "Url": "http://www.abradable.pl",
+    "Name": "Abradable",
+    "Address": "Kołłątaja 26",
+    "Phone": 782870793,
+    "Town": "Wrocław",
+    "Position": {
+      "x": "17.036841",
+      "y": "51.1017371"
+    }
+  },
+  {
+    "Url": "http://zabrze.zajebistapizza.com",
+    "Name": "Zajebista Pizza",
+    "Address": "Chopina 16",
+    "Phone": 532122318,
+    "Town": "Zabrze",
+    "Position": {
+      "x": "18.780738490179814",
+      "y": "50.333573650000005"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/barcytat/",
+    "Name": "Bistro-Bar Cytat",
+    "Address": "pl. Dworcowy 7",
+    "Phone": 539954996,
+    "Town": "Zabrze",
+    "Position": {
+      "x": "18.7866534",
+      "y": "50.3054592"
+    }
+  },
+  {
+    "Url": "https://facebook.com/PalacZdunowo/",
+    "Name": "Pałac Zdunowo",
+    "Address": "Zdunowo 50",
+    "Phone": 236619800,
+    "Town": "Załuski",
+    "Position": {
+      "x": "20.50822",
+      "y": "52.50517"
+    }
+  },
+  {
+    "Url": "http://www.pizzerialas.pl",
+    "Name": "Pizzeria Las",
+    "Address": "Miejska 12",
+    "Phone": 575123730,
+    "Town": "Zawiercie",
+    "Position": {
+      "x": "19.4303478",
+      "y": "50.5016136"
+    }
+  },
+  {
+    "Url": "https://www.facebook.com/OhyAhyZG/",
+    "Name": "OhyAhy",
+    "Address": "Kościelna 2",
+    "Phone": 577771200,
+    "Town": "Zielona Góra",
+    "Position": {
+      "x": "15.5056682",
+      "y": "51.9384598"
+    }
+  },
+  {
+    "Url": "",
+    "Name": "Bistro Natalia Hładka-Czerniecka",
+    "Address": "Sienkiewicza 36",
+    "Phone": 796484838,
+    "Town": "Zielona Góra",
+    "Position": {
+      "x": "15.5092501",
+      "y": "51.9318805"
+    }
+  },
+  {
+    "Url": "",
+    "Name": "Burger House Zielona Góra",
+    "Address": "Kazimierza Wielkiego 6/1",
+    "Phone": 537545068,
+    "Town": "Zielona Góra",
+    "Position": {
+      "x": "15.5095342",
+      "y": "51.9432525"
+    }
+  },
+  {
+    "Url": "",
+    "Name": "Moja Kuchnia do Syta",
+    "Address": "Niepodległości 11A",
+    "Phone": 723072740,
+    "Town": "Zielona Góra",
+    "Position": {
+      "x": "20.9823892",
+      "y": "53.5636092"
+    }
+  }
 ]

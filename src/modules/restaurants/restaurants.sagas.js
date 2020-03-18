@@ -1,10 +1,26 @@
 import { all, takeLatest, put } from 'redux-saga/effects';
-import { RestaurantsTypes, RestaurantsActions } from './restaurants.redux';
+import { OpenStreetMapProvider } from 'leaflet-geosearch';
 
-import staticData from '../../data/data.json';
+import { RestaurantsTypes, RestaurantsActions } from './restaurants.redux';
+import staticRestaurantData from '../../data/data.json';
+
+const provider = new OpenStreetMapProvider();
 
 export function* fetchList() {
-  yield put(RestaurantsActions.fetchListSuccess(staticData));
+  // try {
+  //   for (let index = 0; index < staticRestaurantData.length; index++) {
+  //     const { Town, Address } = staticRestaurantData[index];
+  //     const results = yield provider.search({ query: `${Address}, ${Town}` });
+
+  //     if (results.length) {
+  //       const { x, y } = results[0];
+  //       staticRestaurantData[index].location = { x, y };
+  //     }
+  //   }
+  // } catch (error) {
+  //   console.error(error)
+  // }
+  yield put(RestaurantsActions.fetchListSuccess(staticRestaurantData));
 }
 
 export function* watchRestaurants() {
