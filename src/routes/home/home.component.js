@@ -17,7 +17,7 @@ export const Home = () => {
   }, [dispatch]);
 
   const filteredRestaurantList = useMemo(() => {
-    return [];
+    return restaurantList;
   }, [townValue, restaurantList]);
 
   const markers = useMemo(() => {
@@ -29,16 +29,22 @@ export const Home = () => {
     setTownValue(value);
   };
 
-  const renderMarker = ({ Url, Name, Phone, Address, Town, Position }) => (
-    <Marker position={[Number(Position.x), Number(Position.y)]}>
-      <Popup>
-        {Name}
-        {Phone}
-        {Address}, {Town}
-        {Url}
-      </Popup>
-    </Marker>
-  );
+  const renderMarker = ({ Url, Name, Phone, Address, Town, Position }) => {
+    if (!Position) {
+      return null;
+    }
+
+    return (
+      <Marker position={[Position.y, Position.x]}>
+        <Popup>
+          {Name}
+          {Phone}
+          {Address}, {Town}
+          {Url}
+        </Popup>
+      </Marker>
+    )
+  };
 
   const renderMap = () => (
     <Map center={position} zoom={7}>
