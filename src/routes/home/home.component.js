@@ -1,33 +1,41 @@
-import React, { useEffect, useState, useMemo } from 'react';
+import React, { useEffect, useState, useMemo, useCallback } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { Marker, Popup, TileLayer } from 'react-leaflet';
 
 import { RestaurantsActions, selectRestaurantsList } from '../../modules/restaurants';
-import { Container, Map } from './home.styled';
+import { Container, Map, SearchInputContainer, SearchInput, ShowListButton } from './home.styled';
 
 const position = [52.1127, 19.2119];
 
 export const Home = () => {
   const dispatch = useDispatch();
   const restaurantList = useSelector(selectRestaurantsList);
-  const [townValue, setTownValue] = useState(null);
+  const [query, setQuery] = useState('');
 
   useEffect(() => {
     dispatch(RestaurantsActions.fetchList());
   }, [dispatch]);
 
   const filteredRestaurantList = useMemo(() => {
-    return restaurantList;
-  }, [townValue, restaurantList]);
+    return restaurantList.filter(({ Address, Town, Name }) => {
+      return `${Address} ${Town} ${Name}`.toLowerCase().includes(query.toLowerCase());
+    });
+  }, [query, restaurantList]);
 
-  const markers = useMemo(() => {
-
-  }, [filteredRestaurantList]);
-
-  const handleChange = (event) => {
+  const handleChange = useCallback((event) => {
     const value = event.currentTarget.value;
-    setTownValue(value);
-  };
+    setQuery(value);
+  }, []);
+
+  const renderSearch = () => (
+    <SearchInputContainer>
+      <SearchInput
+        placeholder="Wpisz adres lub nazwę..."
+        onChange={handleChange}
+        fullWidth
+      />
+    </SearchInputContainer>
+  );
 
   const renderMarker = ({ Url, Name, Phone, Address, Town, Position }) => {
     if (!Position) {
@@ -35,7 +43,7 @@ export const Home = () => {
     }
 
     return (
-      <Marker position={[Position.y, Position.x]}>
+      <Marker key={`${Name}-${Address}`} position={[Position.y, Position.x]}>
         <Popup>
           {Name}
           {Phone}
@@ -47,21 +55,25 @@ export const Home = () => {
   };
 
   const renderMap = () => (
-    <Map center={position} zoom={7}>
-    <TileLayer
+    <Map center={position} zoom={7} minZoom={6}>
+      <TileLayer
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         attribution="&copy; <a href=&quot;http://osm.org/copyright&quot;>OpenStreetMap</a> contributors"
       />
       {filteredRestaurantList.map(renderMarker)}
-      {/* <Marker position={position}>
-        <Popup>A pretty CSS3 popup.<br />Easily customizable.</Popup>
-      </Marker> */}
     </Map>
   );
 
   return (
     <Container>
       {renderMap()}
+      {renderSearch()}
+      <ShowListButton
+        variant="contained"
+        color="primary"
+      >
+        Pokaz listę
+      </ShowListButton>
     </Container>
   );
 }
