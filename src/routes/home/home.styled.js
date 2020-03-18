@@ -2,6 +2,8 @@ import styled from 'styled-components';
 import { Map as MapBase } from 'react-leaflet';
 import TextField from '@material-ui/core/TextField';
 import Button from '@material-ui/core/Button';
+import DrawerBase from '@material-ui/core/Drawer';
+
 import { Colors } from '../../theme/colors'
 
 export const Container = styled.div`
@@ -18,6 +20,7 @@ export const Container = styled.div`
     left: 0;
     z-index: 1;
     box-shadow: inset 0px -64px 63px -58px ${Colors.black};
+    pointer-events: none;
   }
 `;
 
@@ -48,4 +51,19 @@ export const ShowListButton = styled(Button)`
     left: 50%;
     transform: translateX(-50%);
   }
+`;
+
+export const Drawer = styled(DrawerBase)`
+  &.MuiDrawer-root {
+    position: absolute !important;
+    left: auto !important;
+  }
+
+  .MuiDrawer-paper {
+    position: relative;
+  }
+`;
+
+export const List = styled.div`
+  width: 400px;
 `;
